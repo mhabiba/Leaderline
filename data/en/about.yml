@@ -1,0 +1,49 @@
+###################################### philosophy ####################################
+philosophy:
+  enable : true
+  subtitle : Know About
+  title : Leaderline
+  content : LMC Solutions was established on 2015 as a conclusion of efforts combination and based on the accumulated experience of more than 15 years.<br><br> Solutions that we provide have succeeded within a very short period of time to widen our Clients’ database within Saudi Arabia and Arab Region where we maintained a good reputation in the market and with big and reputable organizations that we are proudly dealing with… <br> Our services are concentrated on various strategic management consultations, national/ international standards compliance, business solutions and professional in-house trainings that add value to our clients and partners. <br> Composed team is consisted of professional and veteran experts, consultants and trainers that are selected after passing our internal pre-evaluation process in order to secure the high quality of services delivered to our respected clients.
+
+  image : images/about/philosophy.jpg
+
+###################################### ceo ########################################
+ceo:
+  enable : true
+  bg_image : images/about/ceo.jpg
+  title : Leaderline <br> Quality Policy
+  content : It is the policy of LMC to provide the high quality standard services in both consultation and training programs to obtain the highest level of our clients’ satisfaction. Our strategy is to be one of the leading consultation and training bodies in Saudi Arabia, Middle East and Arab Region, together with our clients, partners and colleagues, by striving towards providing a diversity of management strategies & business solutions. Our Clients are our main assets where we consider ourselves as strategic partners in developing systems and providing business solutions using best practices that are reflected in our reports and outcomes. LMC’ Management is committed towards the implementation of Quality Management System and continual improvement approach to ensure that this Quality Policy is efficiently communicated and permanently applied throughout the entire system.
+  signature : images/about/ceo-signature.png
+  name : Mohammed Tahhan
+  designation : CEO
+
+########################################### Mission ###################################
+mission:
+  enable : true
+  # mission content comes from "data/*/homepage.yml" file
+
+###################################### funfacts ####################################
+funfacts: 
+  enable : true
+  bg_image : images/background/cta.jpg
+  counter:
+    - title : Projects Done
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      count : 140
+      
+    - title : Satisfied Clients
+      icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+      count : 280
+      
+    - title : Professional Training
+      icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+      count : 395
+      
+    - title : Participant
+      icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
+      count : 4500
+
+########################################### skill ###################################
+skill:
+  enable : true
+  # skill content comes from "data/*/homepage.yml" file
