@@ -1,9 +1,10 @@
 ######################### default configuration ###############################
-baseURL = "http://examplesite.com"
+baseURL = "/"
+languageCode = "en-us"
 title = "Leaderline"
 theme = "biztrox-hugo"
 # post pagination
-paginate = "6"
+paginate = 6
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -117,6 +118,13 @@ disableLanguages = ['Ar'] # desable language from here
 
 ########################### default parameters #################################
 [params]
+contentTypeName = "posts"
+themeColor = "blue"
+showLastUpdated = false
+showLanguageSelector = false
+fullWidthTheme = false
+centerTheme = false
+showMenuItems = 2
 logo = "images/logo.png"
 logo_white = "images/logo-footer.png"
 mail = "info@lmc.sa"
@@ -211,6 +219,14 @@ link = "https://www.facebook.com/LMCSolutionsLLC/"
   [Languages.en]
   languageName = "En"
   languageCode = "en-us"
+  owner = ""
+  keywords = ""
+  copyright = ""
+  menuMore = "Show more"
+  readMore = "Read more"
+  readOtherPosts = "Read other posts"
+  missingContentMessage = "Page not found..."
+  missingBackButtonLabel = "Back to home page"
   contentDir = "content/english"
   weight = 1
   home = "Home"
