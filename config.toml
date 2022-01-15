@@ -180,28 +180,9 @@ map_marker = "images/marker.png"
 
 ############################ client logo slider #############################
 [[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-1.png"
-link = "#"
+logo = "images/client-logo/SMEH- Web- Dark.svg"
+link = "https://www.smeh.com.sa"
 
-[[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-2.png"
-link = "https://examplesite.com"
-
-[[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-3.png"
-link = "#"
-
-[[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-4.png"
-link = "https://examplesite.com"
-
-[[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-5.png"
-link = "#"
-
-[[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-3.png"
-link = "https://examplesite.com"
 
 ########################### social icon #####################################
 
