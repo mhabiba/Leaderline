@@ -179,6 +179,53 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 ############################ client logo slider #############################
+
+### government Sector logo ###
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/MoMRA- Web- Dark.svg"
+link = "https://www.momra.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/Elm- Web- Dark.svg"
+link = "https://www.elm.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/MoF- Web- Dark.svg"
+link = "https://mof.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/HRSD- Web- Dark.svg"
+link = "https://hrsd.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/Shaqra- Web- Dark.svg"
+link = "https://www.su.edu.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/SAMA- Web- Dark.svg"
+link = "https://www.sama.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/M.Housing- Web- Dark.svg"
+link = "https://www.housing.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/M.Tourism- Web- Dark.svg"
+link = "https://mt.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/M.Sport- Web- Dark.svg"
+link = "https://www.mos.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/saudi-esports- Web- Dark.svg"
+link = "https://saudiesports.sa/"
+
+
+
+### Private Sector logo ###
+
 [[params.clients_logo_slider]]
 logo = "images/client-logo/SMEH- Web- Dark.svg"
 link = "https://www.smeh.com.sa"
