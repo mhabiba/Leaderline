@@ -133,7 +133,7 @@ mobile = "0536203055"
 description = "LMC Website"
 author = "Muhannad Habiba"
 # contact form
-contact_form_action = "#"
+contact_form_action = "https://getform.io/f/c57dc65e-7dfc-4563-a3e2-72190a039d27"
 # Google Analitycs
 google_analitycs_id = "G-276337H0KN"
 
