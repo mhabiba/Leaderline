@@ -49,7 +49,7 @@ slider:
       title : Knowledge Transfer
       content : Providing intensive in-house training courses related to management system with exhaustive practical sessions <br> to improve skills and enable the trainee practicing learned techniques in order to get the ultimate benefit to the respective organization.
       pagination_icon : ti-marker-alt # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Human Capital Solutions
+      pagination_name : Knowledge Transfer
       button:
         enable : true
         label: More details

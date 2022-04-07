@@ -222,6 +222,14 @@ link = "https://www.mos.gov.sa/"
 logo = "images/client-logo/saudi-esports- Web- Dark.svg"
 link = "https://saudiesports.sa/"
 
+[[params.clients_logo_slider]]
+logo = "images/client-logo/Financial Academy- Web- Dark.svg"
+link = "https://fa.gov.sa/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/KAI.SAU- Web- Dark.svg"
+link = "https://kai.ksu.edu.sa/"
+
 
 
 ### Private Sector logo ###
@@ -229,6 +237,8 @@ link = "https://saudiesports.sa/"
 [[params.clients_logo_slider]]
 logo = "images/client-logo/SMEH- Web- Dark.svg"
 link = "https://www.smeh.com.sa"
+
+
 
 
 ########################### social icon #####################################

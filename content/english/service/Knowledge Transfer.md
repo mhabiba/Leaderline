@@ -1,5 +1,5 @@
 ---
-title: "Human Capital Solutions"
+title: "Knowledge Transfer"
 date: 2021-01-01T11:51:17+06:00
 description : "This is meta description"
 image: images/service/service-4.jpg
@@ -14,7 +14,7 @@ offDay: Friday
 type : service
 ---
 
-### Human Capital Solutions
+### Knowledge Transfer
 
 Providing intensive in-house training courses related to management system with exhaustive practical sessions to improve skills and enable the trainee practicing learned techniques in order to get the ultimate benefit to the respective organization. Our training programs are related to the following:
 
