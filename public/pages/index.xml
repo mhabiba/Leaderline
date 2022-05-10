@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Leaderline</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Leaderline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legal Disclaimer</title>
+      <link>/pages/legal/</link>
+      <pubDate>Thu, 12 Jul 2018 18:19:33 +0600</pubDate>
+      
+      <guid>/pages/legal/</guid>
+      <description>DisclaimerLast updated: December 29, 2021
+Interpretation and DefinitionsInterpretationThe words of which the initial letter is capitalized have meanings defined under the following conditions.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/pages/privacy_policy/</link>
+      <pubDate>Thu, 12 Jul 2018 18:19:33 +0600</pubDate>
+      
+      <guid>/pages/privacy_policy/</guid>
+      <description>Privacy PolicyLast updated: December 15, 2021
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</description>
+    </item>
+    
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>/pages/terms_conditions/</link>
+      <pubDate>Thu, 12 Jul 2018 18:19:33 +0600</pubDate>
+      
+      <guid>/pages/terms_conditions/</guid>
+      <description>Terms and ConditionsThese terms and conditions outline the rules and regulations for the use of Leaderline Management Consultancy &#39;s Website, located at leaderline.</description>
+    </item>
+    
+  </channel>
+</rss>

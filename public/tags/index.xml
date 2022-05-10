@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Leaderline</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Leaderline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Sep 2018 11:11:24 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consultancy</title>
+      <link>/tags/consultancy/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>/tags/consultancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>/tags/finance/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>/tags/marketing/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>/tags/business/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Analysis</title>
+      <link>/tags/market-analysis/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>/tags/market-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revenue</title>
+      <link>/tags/revenue/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>/tags/revenue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>/tags/advice/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitness</title>
+      <link>/tags/fitness/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>/tags/fitness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

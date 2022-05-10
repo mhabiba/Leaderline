@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Leaderline</title>
+    <link>/service/</link>
+    <description>Recent content in Service on Leaderline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Management Solutions</title>
+      <link>/service/business-management-solutions/</link>
+      <pubDate>Mon, 04 Jan 2021 15:51:35 +0600</pubDate>
+      
+      <guid>/service/business-management-solutions/</guid>
+      <description>Business Management Solutions Start by looking openly to specified inadequacy within the organization where thorough diagnosis is applied by our experts in conjunction with process owners so as to reach the best practiced solutions…</description>
+    </item>
+    
+    <item>
+      <title>Compliance</title>
+      <link>/service/compliance/</link>
+      <pubDate>Sat, 02 Jan 2021 11:54:02 +0600</pubDate>
+      
+      <guid>/service/compliance/</guid>
+      <description>Compliance The implementation of international standards in industry and commerce became highly important with the onset of the industrial revolution and the need for high-precision tools and interchangeable parts.</description>
+    </item>
+    
+    <item>
+      <title>Gap Analysis &amp; Mgt. Audits</title>
+      <link>/service/gap-analysis-and-mgt.-audits/</link>
+      <pubDate>Sat, 02 Jan 2021 11:51:17 +0600</pubDate>
+      
+      <guid>/service/gap-analysis-and-mgt.-audits/</guid>
+      <description>Gap Analysis &amp;amp; Management Audits Providing main tools that support the continuous improvement approach and the high level of system compliance to national and/ or international standards</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Transfer</title>
+      <link>/service/knowledge-transfer/</link>
+      <pubDate>Fri, 01 Jan 2021 11:51:17 +0600</pubDate>
+      
+      <guid>/service/knowledge-transfer/</guid>
+      <description>Knowledge Transfer Providing intensive in-house training courses related to management system with exhaustive practical sessions to improve skills and enable the trainee practicing learned techniques in order to get the ultimate benefit to the respective organization.</description>
+    </item>
+    
+  </channel>
+</rss>

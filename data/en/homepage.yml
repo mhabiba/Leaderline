@@ -40,7 +40,7 @@ slider:
       button:
         enable : true
         label: More details
-        link : "service/gap-analysis-and-management-audits/"
+        link : "service/gap-analysis-and-mgt.-audits/"
         
     # slider item loop
     - bg_image : images/banner/banner-4.jpg
@@ -53,7 +53,7 @@ slider:
       button:
         enable : true
         label: More details
-        link : "service/human-capital-solutions/"
+        link : "service/knowledge-transfer/"
 
 ########################################## Service ####################################
 service:
