@@ -1,0 +1,54 @@
+- id: nav_button
+  translation: احصل على عرض سعر
+- id: service_subtitle
+  translation: أفضل الخدمات
+- id: service_title
+  translation: الخدمات التي نقدمها
+- id: project_subtitle
+  translation: أعمالنا
+- id: project_title
+  translation: اخر المشاريع
+- id: blog_subtitle
+  translation: اخر الأخبار
+- id: blog_title
+  translation: اخبار الشركة
+- id: services
+  translation: الخدمات
+- id: quick_links
+  translation: روابط سريعة
+- id: contact_us
+  translation: تواصل معنا
+- id: contact_form
+  translation: نموذج التواصل
+- id: submit
+  translation: ارسال
+- id: buy_now
+  translation: اشتري الان
+- id: service_brochure
+  translation: بروشور الخدمة
+- id: download_pdf
+  translation: Download pdf
+- id: opening_hours
+  translation: ساعات العمل
+- id: contact_info
+  translation: معلومات التواصل
+- id: follow_on_social
+  translation: تابعنا على وسائل التواصل الإجتماعي
+- id: cv
+  translation: خبراء ليدرلاين
+- id: overview
+  translation: Overview
+- id: project_name
+  translation: اسم المشروع
+- id: live_demo
+  translation: Watch Live Demo
+- id: case_study
+  translation: Complete Case Study
+- id: free_consultation
+  translation: Request Free Consultation
+- id: all
+  translation: All
+- id: posted_by
+  translation: بقلم
+- id: share
+  translation: مشاركة

@@ -1,0 +1,186 @@
+###################### hero slider ###########################
+slider:
+  enable : true
+  slider_Item:
+    # slider item loop
+    - bg_image : images/banner/banner-1.jpg
+      animation_from : left
+      subtitle : We are here to achieve 
+      title : best practices
+      content : Management solutions start by looking openly to specified inadequacy within the organization <br> where thorough diagnosis is applied by our experts in conjunction with process owners <br> to reach the best practiced solutions...
+      pagination_icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Business Mgt. Solutions
+      button:
+        enable : true
+        label: More details
+        link : "service/business-management-solutions/"
+        
+    # slider item loop
+    - bg_image : images/banner/banner-2.jpg
+      animation_from : up
+      subtitle : Get your
+      title : Compliance Consultant
+      content : The implementation of international standards in industry and commerce became highly important <br> with the onset of the industrial revolution and the need for high-precision tools and interchangeable parts. <br> Standardization is one of the main methodologies that helps organizations in unifying the complete entire <br> system in an effective manner and referring to a worldwide considered requirements <br> such as ISO Organization issued standards...
+      pagination_icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Compliance
+      button:
+        enable : true
+        label: More details
+        link : "service/compliance/"
+        
+    # slider item loop
+    - bg_image : images/banner/banner-3.jpg
+      animation_from : down
+      subtitle : Start your
+      title : Improvement Journey
+      content : Providing main tools that support the continuous improvement approach <br> and the high level of system compliance to national and/ or international standards
+
+      pagination_icon : ti-ink-pen # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Gap Analysis & Mgt. Audits
+      button:
+        enable : true
+        label: More details
+        link : "service/gap-analysis-and-mgt.-audits/"
+        
+    # slider item loop
+    - bg_image : images/banner/banner-4.jpg
+      animation_from : right
+      subtitle : We are committed to
+      title : Knowledge Transfer
+      content : Providing intensive in-house training courses related to management system with exhaustive practical sessions <br> to improve skills and enable the trainee practicing learned techniques in order to get the ultimate benefit to the respective organization.
+      pagination_icon : ti-marker-alt # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Knowledge Transfer
+      button:
+        enable : true
+        label: More details
+        link : "service/knowledge-transfer/"
+
+########################################## Service ####################################
+service:
+  enable : true
+  # service item comes from "content/service" folder
+
+
+######################################## About #########################################
+about:
+  enable : true
+  bg_image : "images/background/about-bg.jpg"
+  title : "Who We Are?"
+  content : "Leaderline was established on 2015 as a conclusion of efforts combination and based on the accumulated experience of more than 15 years."
+  # bullet point
+  bullet_point:
+    - "Business Mgt. Solutions"
+    - "Compliance"
+    - "Gap Analysis & Mgt. Audits"
+    - "Human Capital Solutions"
+  button:
+    enable : true
+    label : "Explore More"
+    link : "about"
+
+##################################### Skill ##############################################
+skill:
+  enable : true
+  subtitle : Our Skills
+  title : Why Choose Us
+  content: "
+  ###### PROFESSIONALISM
+  
+  We have a professional team with wide experience to contain and adopt any new changes on specialized projects. We provide professionalism that exceeds client requirements and expectations in order to get comfort  for the communication barrier.
+  
+  ###### BEST PRACTICE
+  
+  Project   team consists of a Team Leader and dedicated members  with  a  great  exposure in experience and knowledge. Our Team will work very closely with the Client’s process owners to gather all required inputs and simply to deliver the desired outputs carefully.
+  
+  ###### COMMUNICATION
+  
+ We will establish a clear communication plan with clients and set needed objectives to abide with required time scheduling. Our team members are flexible, motivated and well oriented to achieve all milestones within the respective project.
+  
+  ###### EVALUATION
+  
+  Leaderline Experts is one of our great assets for the business. Our team is maintaining LMC reputation in the market and in front of our valued clients... Our intensive evaluation process is helping us in keeping on the high performance and efficiency of consultants.
+  "
+
+  # funfacts
+  funfacts :
+    - icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      title : Projects Done
+      count : 140
+      
+    - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+      title : Satisfied Clients
+      count : 280
+      
+    - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
+      title : Professional Training
+      count : 395
+
+  # progressbar
+      
+########################################## project ####################################
+project:
+  enable : False
+  # project item comes from "content/project" folder
+
+########################################### Mission ###################################
+mission:
+  enable : true
+  #subtitle : Our Goal
+  title : we believe in excellence...
+  #image : images/chart.png
+  accordion:
+    - title : Mission
+      description : Providing typical and unique services with respect to consultation practices that contribute to improving the organizational performance in the market, as well as raising the level of client satisfaction.
+      
+    - title : Vision
+      description : To be a dominant consultation body in  Saudi Arabia and Arab Region through the advancement of  our  clients  to  the  highest  levels  in  the  business  market   and in line with Saudi Vision 2030.
+      
+    - title : Values
+      description : Our values reflect the beliefs that we are adopting in LMC Solutions where it draw the way of our business. We can lineup our values as Confidentiality, Professionalism & Excellence, Honesty, Integrity & Respect, Simplicity, Precision & Adding Value.
+
+##################################### Promo video ####################################
+promo_video:
+  enable : false
+  title : "We Are Alawys <br> Comited"
+  bg_image : "images/background/promo-video.jpg"
+  video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  video_title : "Lorem ipsum dolor <br> sit amet con."
+
+##################################### call to action #################################
+testimonial:
+  enable : false
+  subtitle : Clients
+  title : What client Say
+  image : images/client.png
+  testimonial_item :
+    - name : Julia Robertson
+      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
+      designation : Happy Clients
+      
+    - name : Julia Robertson
+      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
+      designation : Happy Clients
+      
+    - name : Julia Robertson
+      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
+      designation : Happy Clients
+
+##################################### call to action #################################
+cta:
+  enable : true
+  bg_image : "images/background/cta.jpg"
+  title : "Leaderline give the smart solution for your business"
+  button:
+    enable : true
+    label : "get a quote"
+    link : "contact"
+      
+########################################## blog ####################################
+blog:
+  enable : False
+  # blog item comes from "content/blog" folder
+  
+################################ clints logo slider ################################
+clients_logo_slider:
+  enable : true
+  # clients logo comes from "config.toml" folder

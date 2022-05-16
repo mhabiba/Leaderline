@@ -10,7 +10,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ['Ar'] # desable language from here
+disableLanguages = [] # desable language from here
 
 ############################# enable raw HTML ##############################
 [markup]
@@ -230,6 +230,9 @@ link = "https://fa.gov.sa/"
 logo = "images/client-logo/KAI.SAU- Web- Dark.svg"
 link = "https://kai.ksu.edu.sa/"
 
+[[params.clients_logo_slider]]
+logo = "images/client-logo/M.Commerce- Web- Dark.svg"
+link = "https://mc.gov.sa/"
 
 
 ### Private Sector logo ###
@@ -251,6 +254,10 @@ link = "https://sa.linkedin.com/company/leaderline-lmc"
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/LMCSolutionsLLC/"
 
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://twitter.com/Leaderline_lmc/"
+
 [Languages]
   
   ################################### English language #####################################
@@ -266,7 +273,7 @@ link = "https://www.facebook.com/LMCSolutionsLLC/"
   missingContentMessage = "Page not found..."
   missingBackButtonLabel = "Back to home page"
   contentDir = "content/english"
-  weight = 1
+  weight = 2
   home = "Home"
 
   # footer
@@ -286,17 +293,69 @@ link = "https://www.facebook.com/LMCSolutionsLLC/"
   [Languages.ar]
   languageName = "Ar"
   languageCode = "ar-ar"
+  languagedirection = "rtl"
+  title = "ليدرلاين"
+  owner = ""
+  keywords = ""
+  copyright = ""
+  menuMore = "عرض المزيد"
+  readMore = "قراءة المزيد"
+  readOtherPosts = "عرض المزيد من المواضيع"
+  missingContentMessage = "الصفحة غير موجودة..."
+  missingBackButtonLabel = "العودة الى الصفحة الرئيسية"
   contentDir = "content/arabic"
-  weight = 2
+  weight = 1
   home = "الصفحة الرئيسية"
+  
+##### navigation AR #####    
+  # main menu
+  [[Languages.ar.menu.main]]
+  name = "نبذة"
+  URL = "about"
+  weight = 1
+  
+  [[Languages.ar.menu.main]]
+  name = "خدماتنا"
+  URL = "service"
+  weight = 2
+  
+  #[[Languages.ar.menu.main]]
+  #name = "Blog"
+  #URL = "blog"
+  #weight = 3
+  
+  #[[Languages.ar.menu.main]]
+  #name = "Team"
+  #URL = "team"
+  #weight = 4
+  
+  #[[Languages.ar.menu.main]]
+  #name = "Pricing"
+  #URL = "pricing"
+  #weight = 5
+  
+  [[Languages.ar.menu.main]]
+  name = "التواصل"
+  URL = "contact"
+  weight = 6
+
+  #[[Languages.ar.menu.main]]
+  #weight = 7
+  #name = "Pages"
+  #hasChildren = true
+
+   #[[Languages.ar.menu.main]]
+   #parent = "Pages"
+   #name = "Project"
+   #URL = "project"
 
   # footer
   [Languages.ar.params.footer]
-  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+  content = ". . . نؤمن بالتميّز"
 
   # subscribe
   subscribe = "Subscribe Us"
-  subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+  subscribe_content = "للإشتراك في نشراتنا "
 
   # copyright
   copyright = "جميع الحقوق محفوظة &copy; 2022 Leaderline Management Consultancy"
