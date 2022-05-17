@@ -17,8 +17,8 @@
 	
 	
 	
-		{{ $styles := resources.Get "css/rtl.css"}}
-		<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+		{{ $rtl := resources.Get "css/rtl.css"}}
+		<link rel="stylesheet" href="{{ $rtl.Permalink }}" media="screen">
 
     	{{ $styles := resources.Get "css/style.css"}}
 	    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
