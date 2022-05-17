@@ -15,15 +15,8 @@
 
     {{ "<!-- Main Stylesheet -->" | safeHTML }}
 	
-	
-	
-	{{ if eq .Site.LanguageCode "ar"}}
-		{{ $styles := resources.Get "css/rtl.css"}}
-		<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
-	{{ else }}
     	{{ $styles := resources.Get "css/style.css"}}
 	    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
-	{{ end }}
 
 
     {{ "<!--Favicon-->" | safeHTML }}
