@@ -36,8 +36,6 @@ disableLanguages = [] # desable language from here
   
   # JS Plugins
   [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
   URL = "plugins/slick/slick.min.js"
   [[params.plugins.js]]
   URL = "plugins/magnific-popup/magnific-popup.min.js"
