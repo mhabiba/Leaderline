@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "en"
 title = "Leaderline"
 theme = "biztrox-hugo"
 # post pagination
@@ -23,8 +23,6 @@ disableLanguages = [] # desable language from here
 
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
   URL = "plugins/magnific-popup/magnific-popup.css"
   [[params.plugins.css]]
   URL = "plugins/slick/slick.css"
@@ -34,12 +32,11 @@ disableLanguages = [] # desable language from here
   URL = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
   URL = "plugins/animate/animate.css"
+ 
   
   # JS Plugins
   [[params.plugins.js]]
   URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
   URL = "plugins/slick/slick.min.js"
   [[params.plugins.js]]
@@ -49,10 +46,9 @@ disableLanguages = [] # desable language from here
   [[params.plugins.js]]
   URL = "plugins/google-map/gmap.js"
 
-
 #################################### navigation ##################################
 [menu]
-    
+
   # main menu
   [[menu.main]]
   name = "About"
@@ -63,6 +59,11 @@ disableLanguages = [] # desable language from here
   name = "Service"
   URL = "service"
   weight = 2
+  
+  [[menu.main]]
+  name = "Compliance"
+  URL = "compliance"
+  weight = 1
   
   #[[menu.main]]
   #name = "Blog"
@@ -263,7 +264,7 @@ link = "https://twitter.com/Leaderline_lmc/"
   ################################### English language #####################################
   [Languages.en]
   languageName = "En"
-  languageCode = "en-us"
+  languageCode = "en"
   owner = ""
   keywords = ""
   copyright = ""
@@ -292,7 +293,7 @@ link = "https://twitter.com/Leaderline_lmc/"
 ################################ Arabic language ################################
   [Languages.ar]
   languageName = "Ar"
-  languageCode = "ar-ar"
+  languageCode = "ar"
   languagedirection = "rtl"
   title = "ليدرلاين"
   owner = ""

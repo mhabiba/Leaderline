@@ -1,6 +1,6 @@
 ###################### hero slider ###########################
 slider:
-  enable : true
+  enable : false
   slider_Item:
     # slider item loop
     - bg_image : images/banner/banner-1.jpg
@@ -126,17 +126,17 @@ project:
 mission:
   enable : true
   #subtitle : Our Goal
-  title : we believe in excellence...
+  title : نؤمن بالتميّز . . .
   #image : images/chart.png
   accordion:
-    - title : Mission
-      description : Providing typical and unique services with respect to consultation practices that contribute to improving the organizational performance in the market, as well as raising the level of client satisfaction.
+    - title : الرسالة
+      description : تقديم خدمات نموذجية وفريدة من نوعها فيما يتعلق بالخدمات الاستشارية والدورات التدريبية والتي تسهم في تحسين أداء الشركات في السوق، فضلا عن رفع مستوى رضا العملاء
       
-    - title : Vision
-      description : To be a dominant consultation body in  Saudi Arabia and Arab Region through the advancement of  our  clients  to  the  highest  levels  in  the  business  market   and in line with Saudi Vision 2030.
+    - title : الرؤية
+      description : أن نكون من كبرى الشركات والجهات الاستشارية في المملكة العربية السعودية والمنطقة العربية من خلال الترفع بعملائنا إلى أعلى المستويات في سوق الأعمال وبما يتماشى مع رؤية المملكة 2030 
       
-    - title : Values
-      description : Our values reflect the beliefs that we are adopting in LMC Solutions where it draw the way of our business. We can lineup our values as Confidentiality, Professionalism & Excellence, Honesty, Integrity & Respect, Simplicity, Precision & Adding Value.
+    - title : القيم
+      description : قيمنا تعكس قناعاتنا التي تبنيناها في أل أم سي سوليوشنز حيث ترسم الطريق لأعمالنا، قيمنا تتمثل بالسرية في العمل، الصدق والنزاهة والاحترام، الاحترافية والتميز، البساطة والدقة والقيمة المضافة
 
 ##################################### Promo video ####################################
 promo_video:
