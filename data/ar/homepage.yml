@@ -1,6 +1,6 @@
 ###################### hero slider ###########################
 slider:
-  enable : false
+  enable : true
   slider_Item:
     # slider item loop
     - bg_image : images/banner/banner-1.jpg
