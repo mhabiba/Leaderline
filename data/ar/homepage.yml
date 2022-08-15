@@ -3,7 +3,7 @@ slider:
   enable : true
   slider_Item:
     # slider item loop
-    - bg_image : images/banner/banner-1.jpg
+    - bg_image : images/banner/banner-1-RTL.jpg
       animation_from : left
       subtitle : We are here to achieve 
       title : best practices
@@ -16,7 +16,7 @@ slider:
         link : "service/business-management-solutions/"
         
     # slider item loop
-    - bg_image : images/banner/banner-2.jpg
+    - bg_image : images/banner/banner-2-RTL.jpg
       animation_from : up
       subtitle : Get your
       title : Compliance Consultant
@@ -29,7 +29,7 @@ slider:
         link : "service/compliance/"
         
     # slider item loop
-    - bg_image : images/banner/banner-3.jpg
+    - bg_image : images/banner/banner-3-RTL.jpg
       animation_from : down
       subtitle : Start your
       title : Improvement Journey
@@ -43,7 +43,7 @@ slider:
         link : "service/gap-analysis-and-mgt.-audits/"
         
     # slider item loop
-    - bg_image : images/banner/banner-4.jpg
+    - bg_image : images/banner/banner-4-RTL.jpg
       animation_from : right
       subtitle : We are committed to
       title : Knowledge Transfer
