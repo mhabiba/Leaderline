@@ -5,12 +5,6 @@ description : "This is meta description"
 image: images/service/service-1.jpg
 bg_image: images/background/page-title.jpg
 icon: ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-#brochure: '#'
-regularDay: Sun-Tues
-regularTime: 09.00am - 05.00pm
-halfDay: Saturday
-halfTime: 10.00am - 01.00pm
-offDay: Friday
 type : service
 ---
 

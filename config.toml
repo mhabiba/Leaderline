@@ -10,7 +10,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ['ar'] # desable language from here
 
 ############################# enable raw HTML ##############################
 [markup]
@@ -59,9 +59,28 @@ disableLanguages = [] # desable language from here
   weight = 2
   
   [[menu.main]]
-  name = "Compliance"
-  URL = "compliance"
+  name = "Business Management Solutions"
+  URL = "service/business_management_solutions"
+  parent = "Service"
   weight = 1
+  
+  [[menu.main]]
+  name = "Compliance"
+  URL = "service/compliance"
+  parent = "Service"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Gap Analysis and Management Audits"
+  URL = "service/gap-analysis-and-mgt.-audits/"
+  parent = "Service"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Knowledge Transfer"
+  URL = "service/knowledge-transfer/"
+  parent = "Service"
+  weight = 4
   
   #[[menu.main]]
   #name = "Blog"
