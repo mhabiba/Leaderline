@@ -2,8 +2,7 @@
 title: "Knowledge Transfer"
 date: 2021-01-01T11:51:17+06:00
 description : "This is meta description"
-image: images/service/service-4.jpg
-bg_image: images/background/page-title.jpg
+bg_image: images/service/service-4.jpg
 icon: ti-light-bulb
 type : service
 ---

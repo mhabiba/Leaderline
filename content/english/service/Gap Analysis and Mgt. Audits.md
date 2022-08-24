@@ -2,8 +2,7 @@
 title: "Gap Analysis & Mgt. Audits"
 date: 2021-01-02T11:51:17+06:00
 description : "This is meta description"
-image: images/service/service-2.jpg
-bg_image: images/background/page-title.jpg
+bg_image: images/service/service-2.jpg
 icon: ti-thought
 type : service
 ---

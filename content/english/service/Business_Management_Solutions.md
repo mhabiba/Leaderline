@@ -2,52 +2,13 @@
 title: "Business Management Solutions"
 date: 2021-01-04T15:51:35+06:00
 description : "This is meta description"
-image: images/service/service-1.jpg
-bg_image: images/background/page-title.jpg
+bg_image: images/service/service-1.jpg
 icon: ti-bar-chart # themify icon pack : https://themify.me/themify-icons
 type : service
 ---
 
 ### Business Management Solutions
-
-  Start by looking openly to specified inadequacy within the organization where thorough diagnosis is applied by our experts in conjunction with process owners so as to reach the best practiced solutions…
-
-
-<!-- 
-<div style="width:100%;overflow:hidden;">
-<div class="col-lg-6" style="float:left;">
-<div id="accordion" class="mb-40">
-<div class="card border-0 mb-4">
-<div class="card-header bg-gray border p-0">
-<a class="card-link h5 d-block tex-dark mb-0 py-10 px-4" data-toggle="collapse" href="#s1">
-<i class="ti-plus text-primary mr-2"></i> Organizational Excellence
-</a>
-</div>
-<div id="s1" class="collapse" data-parent="#accordion">
-<div class="card-body font-secondary text-color pl-0 pb-0">
-Sorting organizational effectiveness through inter-communication to enhance and standardize the practices of execution management
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6" style="float:right;">
-<div id="accordion" class="mb-md-50">
-<div class="card border-0 mb-4">
-<div class="card-header bg-gray border p-0">
-<a class="card-link h5 d-block tex-dark mb-0 py-10 px-4" data-toggle="collapse" href="#s2">
-<i class="ti-plus text-primary mr-2"></i> Strategy Management
-</a>
-</div>
-<div id="s2" class="collapse" data-parent="#accordion">
-<div class="card-body font-secondary text-color pl-0 pb-0">
-Developing, implementing and executing business strategy through involving clear objectives and relevant plans
-</div>
-</div>
-</div>
-</div>
-</div>
-</div> <!--side by side-->
+Start by looking openly to specified inadequacy within the organization where thorough diagnosis is applied by our experts in conjunction with process owners so as to reach the best practiced solutions…
 
 #### Organizational Excellence
 Sorting organizational effectiveness through inter-communication to enhance and standardize the practices of execution management
