@@ -156,8 +156,8 @@ contact_form_action = "https://getform.io/f/c57dc65e-7dfc-4563-a3e2-72190a039d27
 google_analitycs_id = "G-276337H0KN"
 
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://gmail.us14.list-manage.com/subscribe/post?u=123dc76f8a7d646b42ac7ce4b&amp;id=98237a24ab&amp;f_id=000d82e0f0"
+mailchimp_form_name = "b_123dc76f8a7d646b42ac7ce4b_98237a24ab"
 
 # nav Button
 [params.nav_button]
@@ -189,7 +189,7 @@ icon = "ti-email"
 icon = "ti-map-alt"
 
   [[params.contacts.contact]]
-  contact_item = "Al Imam Saud Ibn AbdulAziz  Road, <br> Almasiaf, Riyadh"
+  contact_item = "Al Imam Saud Ibn Abdul Aziz Road, Al Masif 3894 - 4004, Riyadh 12466, Saudi Arabia"
 
 ############################ google map #####################################
 [params.gmap]

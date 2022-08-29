@@ -57,7 +57,7 @@ slider:
 
 ########################################## Service ####################################
 service:
-  enable : true
+  enable : false
   # service item comes from "content/service" folder
 
 
@@ -70,8 +70,8 @@ about:
   # bullet point
   bullet_point:
     - "Business Mgt. Solutions"
+    - " Gap Analysis & Mgt. Audits"
     - "Compliance"
-    - "Gap Analysis & Mgt. Audits"
     - "Human Capital Solutions"
   button:
     enable : true
@@ -148,22 +148,14 @@ promo_video:
 
 ##################################### call to action #################################
 testimonial:
-  enable : false
+  enable : true
   subtitle : Clients
   title : What client Say
   image : images/client.png
   testimonial_item :
-    - name : Julia Robertson
-      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-      designation : Happy Clients
-      
-    - name : Julia Robertson
-      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-      designation : Happy Clients
-      
-    - name : Julia Robertson
-      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-      designation : Happy Clients
+    - name : Mr. Ziyad AlSaigh
+      content : we are very happy from the progress performed, and we are very thankful for providing your full support and the results of the project
+      designation : Chief Operation Officer- Takamol Holding
 
 ##################################### call to action #################################
 cta:

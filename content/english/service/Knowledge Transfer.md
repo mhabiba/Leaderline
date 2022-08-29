@@ -5,6 +5,7 @@ description : "This is meta description"
 bg_image: images/service/service-4.jpg
 icon: ti-light-bulb
 type : service
+categories: Service
 ---
 
 ### Knowledge Transfer

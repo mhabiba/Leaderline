@@ -5,6 +5,8 @@ description : "This is meta description"
 bg_image: images/service/service-2.jpg
 icon: ti-thought
 type : service
+categories: Service
+
 ---
 
 ### Gap Analysis & Management Audits

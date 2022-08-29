@@ -5,6 +5,7 @@ description : "This is meta description"
 bg_image: images/service/service-1.jpg
 icon: ti-bar-chart # themify icon pack : https://themify.me/themify-icons
 type : service
+categories: Service
 ---
 
 ### Business Management Solutions
