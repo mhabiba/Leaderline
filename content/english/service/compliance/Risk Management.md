@@ -1,16 +1,16 @@
 ---
-title: "RM ISO 31000:2018"
+title: "ERM ISO 31000:2018"
 date: 2022-08-30
 description : "This is meta description"
 image: images/service/COMP-127.png
 bg_image: images/background/COMP.jpg
-icon: ti-flag-alt
+icon: ti-target
 weight: 8
 type : service
 
 ---
 
-## Risk Management System
+## Enterprise Risk Management
 <pre>
 
 

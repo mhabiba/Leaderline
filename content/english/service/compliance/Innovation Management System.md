@@ -1,5 +1,5 @@
 ---
-title: "IMS ISO 56002:2019"
+title: "InMS ISO 56002:2019"
 date: 2022-08-30
 description : "This is meta description"
 image: images/service/COMP-262.png

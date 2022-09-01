@@ -1,5 +1,5 @@
 ---
-title: "CAMS ISO/IEC 17020:2012"
+title: "ISO/IEC 17020:2012"
 date: 2022-08-30
 description : "This is meta description"
 image: images/service/COMP-143.png
@@ -10,7 +10,7 @@ type : service
 
 ---
 
-## Conformity Assessment Management System
+## Conformity Assessment- Inspection Bodies
 <pre>
 
 
