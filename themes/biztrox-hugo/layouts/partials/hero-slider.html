@@ -1,7 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ "<!-- hero slider -->" | safeHTML }}
 <section>
-	<div class="hero-slider position-relative" dir="ltr">
+	<div class="hero-slider position-relative">
 		{{ "<!-- slider item -->" | safeHTML }}
 		{{ range $data.homepage.slider.slider_Item }}
 		<div class="hero-slider-item py-160" style="background-image: url('{{ .bg_image | absURL }}')" data-icon="{{ .pagination_icon }}" data-text="{{ .pagination_name }}">

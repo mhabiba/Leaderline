@@ -97,10 +97,10 @@ disableLanguages = [''] # desable language from here
   #URL = "pricing"
   #weight = 5
   
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 6
+  #[[menu.main]]
+  #name = "Contact"
+  #URL = "contact"
+  #weight = 6
 
   #[[menu.main]]
   #weight = 7
@@ -143,7 +143,7 @@ showLanguageSelector = false
 fullWidthTheme = false
 centerTheme = false
 showMenuItems = 2
-logo = "images/logo.png"
+logo = "images/logo.svg"
 logo_white = "images/logo-footer.png"
 mail = "info@lmc.sa"
 mobile = "966536203055"
@@ -340,36 +340,30 @@ link = "https://twitter.com/Leaderline_lmc/"
   URL = "service"
   weight = 2
   
-  #[[Languages.ar.menu.main]]
-  #name = "Blog"
-  #URL = "blog"
-  #weight = 3
-  
-  #[[Languages.ar.menu.main]]
-  #name = "Team"
-  #URL = "team"
-  #weight = 4
-  
-  #[[Languages.ar.menu.main]]
-  #name = "Pricing"
-  #URL = "pricing"
-  #weight = 5
+  [[Languages.ar.menu.main]]
+  name = "حلول إدارة الاعمال"
+  URL = "service/business_management_solutions"
+  parent = "خدماتنا"
+  weight = 1
   
   [[Languages.ar.menu.main]]
-  name = "التواصل"
-  URL = "contact"
-  weight = 6
-
-  #[[Languages.ar.menu.main]]
-  #weight = 7
-  #name = "Pages"
-  #hasChildren = true
-
-   #[[Languages.ar.menu.main]]
-   #parent = "Pages"
-   #name = "Project"
-   #URL = "project"
-
+  name = "الامتثال"
+  URL = "service/compliance"
+  parent = "خدماتنا"
+  weight = 2
+  
+  [[Languages.ar.menu.main]]
+  name = "تحليل الفجوة والتدقيق الإداري"
+  URL = "service/gap-analysis-and-mgt.-audits/"
+  parent = "خدماتنا"
+  weight = 3
+  
+  [[Languages.ar.menu.main]]
+  name = "نقل المعرفة"
+  URL = "service/knowledge-transfer/"
+  parent = "خدماتنا"
+  weight = 4
+  
   # footer
   [Languages.ar.params.footer]
   content = ". . . نؤمن بالتميّز"

@@ -4,16 +4,16 @@ slider:
   slider_Item:
     # slider item loop
     - bg_image : images/banner/banner-1-RTL.jpg
-      animation_from : right
+      animation_from : left
       subtitle : نحن هنا لتحقيق 
       title : أفضل الممارسات
       content : Management solutions start by looking openly to specified inadequacy within the organization <br> where thorough diagnosis is applied by our experts in conjunction with process owners <br> to reach the best practiced solutions...
       pagination_icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Business Mgt. Solutions
+      pagination_name : حلول إدارة الأعمال
       button:
         enable : true
-        label: More details
-        link : "service/business-management-solutions/"
+        label: تفاصيل أكثر
+        link : "service/business_management_solutions"
         
     # slider item loop
     - bg_image : images/banner/banner-2-RTL.jpg
