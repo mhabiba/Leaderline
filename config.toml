@@ -10,7 +10,7 @@ summaryLength = "25"
 # disqus short name
 disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ['ar'] # desable language from here
+disableLanguages = [''] # desable language from here
 
 ############################# enable raw HTML ##############################
 [markup]
