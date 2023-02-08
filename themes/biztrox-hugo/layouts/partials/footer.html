@@ -54,9 +54,13 @@
 									<button class="btn-subscribe" type="submit" name="subscribe" id="mc-embedded-subscribe-">
 										<i class="ti-arrow-right"></i>
 									</button>
-									<div style="position: absolute;" aria-hidden="true">
-										<input type="text" name="{{ .Site.Params.mailchimp_form_name }}" tabindex="-1">
-									</div>
+								   {{ if eq .Site.LanguageCode "ar" }}
+									<div style="position: absolute; right: -5000px;" aria-hidden="true"><input type="text"
+									name="{{ .Site.Params.mailchimp_form_name }}" tabindex="-1"></div>
+								   {{ else }}
+									<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+									name="{{ .Site.Params.mailchimp_form_name }}" tabindex="-1"></div>
+								   {{ end }}
 								</div>
 							</form>
 						</div>

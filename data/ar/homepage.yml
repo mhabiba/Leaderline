@@ -7,7 +7,7 @@ slider:
       animation_from : left
       subtitle : نحن هنا لتحقيق 
       title : أفضل الممارسات
-      content : Management solutions start by looking openly to specified inadequacy within the organization <br> where thorough diagnosis is applied by our experts in conjunction with process owners <br> to reach the best practiced solutions...
+      content : الحلول الإدارية تبدأ من خلال النظر في الفجوات وتحديدها داخل المنشأة حيث يتم تطبيق تشخيص شامل من قبل خبرائنا <br> وبالتعاون مع أصحاب العمليات وذلك للوصول إلى أفضل الممارسات والحلول الفعالة...
       pagination_icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
       pagination_name : حلول إدارة الأعمال
       button:
@@ -18,28 +18,28 @@ slider:
     # slider item loop
     - bg_image : images/banner/banner-2-RTL.jpg
       animation_from : up
-      subtitle : Get your
-      title : Compliance Consultant
-      content : The implementation of international standards in industry and commerce became highly important <br> with the onset of the industrial revolution and the need for high-precision tools and interchangeable parts. <br> Standardization is one of the main methodologies that helps organizations in unifying the complete entire <br> system in an effective manner and referring to a worldwide considered requirements <br> such as ISO Organization issued standards...
+      subtitle : احصل على
+      title : استشارات الامتثال للمعايير
+      content : لقد اصبح تنفيذ المعايير الدولية في الصناعة والتجارة وكذلك في الخدمات أمرا بالغ الأهمية مع بداية الثورة الصناعية <br>. (توحيد المعايير) او ما يسمى بالتقييس هي واحدة من المنهجيات الرئيسية التي تساعد المنشآت على توحيد النظام الداخلي بالكامل <br> وبطريقة فعالة واستنادا إلى المعايير المعتمدة دوليا كالمواصفات الصادرة عن منظمة الآيزو وغيرها.
       pagination_icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Compliance
+      pagination_name : الامتثال للمعايير
       button:
         enable : true
-        label: More details
+        label: تفاصيل أكثر
         link : "service/compliance/"
         
     # slider item loop
     - bg_image : images/banner/banner-3-RTL.jpg
       animation_from : down
-      subtitle : Start your
-      title : Improvement Journey
-      content : Providing main tools that support the continuous improvement approach <br> and the high level of system compliance to national and/ or international standards
+      subtitle : ابدأ
+      title : رحلة التحسين
+      content : توفير الأدوات الرئيسية التي تدعم منهجية التحسين المستمر والمستوى العالي من امتثال النظام <br> للمعايير والأنظمة المحلية و/ أو العالمية حيث يتم تحليل الثغرات بشكل مستقل وممنهج <br> فضلا عن مشاريع التدقيق الإداري للمنشآت من أجل التأكد من مستوى الامتثال لديها...
 
       pagination_icon : ti-ink-pen # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Gap Analysis & Mgt. Audits
+      pagination_name : تحليل الفجوات والتدقيق الإداري
       button:
         enable : true
-        label: More details
+        label: تفاصيل أكثر
         link : "service/gap-analysis-and-mgt.-audits/"
         
     # slider item loop
@@ -47,17 +47,17 @@ slider:
       animation_from : right
       subtitle : نحن ملتزمون بـ
       title : نقل المعرفة
-      content : Providing intensive in-house training courses related to management system with exhaustive practical sessions <br> to improve skills and enable the trainee practicing learned techniques in order to get the ultimate benefit to the respective organization.
+      content : تقديم برامج تدريبية داخلية مكثفة تتعلق بنظام الإدارة مع دورات عملية شاملة لتحسين المهارات <br> وتمكين المتدرب من ممارسة التقنيات المكتسبة من أجل الحصول على الفائدة القصوى في المنظمة.
       pagination_icon : ti-marker-alt # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Knowledge Transfer
+      pagination_name : نقل المعرفة
       button:
         enable : true
-        label: More details
+        label: تفاصيل أكثر
         link : "service/knowledge-transfer/"
 
 ########################################## Service ####################################
 service:
-  enable : true
+  enable : false
   # service item comes from "content/service" folder
 
 
@@ -65,54 +65,55 @@ service:
 about:
   enable : true
   bg_image : "images/background/about-bg.jpg"
-  title : "Who We Are?"
-  content : "Leaderline was established on 2015 as a conclusion of efforts combination and based on the accumulated experience of more than 15 years."
+  title : "من نحن؟"
+  content : "تأسست ليدرلاين عام 2015 كنتيجة لتضافر الجهود واستنادًا إلى الخبرات المتراكمة لأكثر من 15 عامًا سابقة."
   # bullet point
   bullet_point:
-    - "Business Mgt. Solutions"
-    - "Compliance"
-    - "Gap Analysis & Mgt. Audits"
-    - "Human Capital Solutions"
+    - "حلول إدارة الأعمال"
+    - "الامتثال للمعاير"
+    - "تحليل الفجوات والتدقيق الإداري"
+    - "نقل المعرفة"
   button:
     enable : true
-    label : "Explore More"
+    label : "اكتشف المزيد"
     link : "about"
 
 ##################################### Skill ##############################################
 skill:
   enable : true
-  subtitle : Our Skills
-  title : Why Choose Us
+  subtitle : خبراتنا
+  title : لماذا تختارنا
   content: "
-  ###### PROFESSIONALISM
+  ###### الاحترافية
+ 
+  نحن نفخر بأن لدينا فريق عمل احترافي وذو خبرة واسعة من اجل احتواء وتبني أية متغيرات جديدة قد تطرأ على المشاريع المتخصصة. نحن نـسـعـى لتقديم الـمـهـنـيـة والاحـتـرافـيـة التي تتجاوز متطلبات العميل وتوقعاته من أجل ضمان سهولة التعامل والتواصل
   
-  We have a professional team with wide experience to contain and adopt any new changes on specialized projects. We provide professionalism that exceeds client requirements and expectations in order to get comfort  for the communication barrier.
+  ###### أفضل الممارسات
   
-  ###### BEST PRACTICE
+  يتكون فريق المشروع من رئيس الفريق والأعضاء المتخصصين مع التوسع الكبير في الـخـبـرة والـمـعـرفـة، حيث يعمل فـريـقـنا بشكل وثـيـق مع اصحاب العمليات وذلك من اجل جمع كل المدخلات المطلوبة وببساطة لتقديم النتائج المرجوة على اكمل وجه
   
-  Project   team consists of a Team Leader and dedicated members  with  a  great  exposure in experience and knowledge. Our Team will work very closely with the Client’s process owners to gather all required inputs and simply to deliver the desired outputs carefully.
+  ###### التواصل
   
-  ###### COMMUNICATION
+ سوف نقوم بإنشاء خطة تواصل واضحة مع العملاء وتحديد الأهداف المطلوبة من اجل الالتزام بجدولة الوقت اللازم. ان أعضاء فريقنا يتمتعون بالمرونة والدافعية وهم موجهون بشكل جيد لتحقيق جميع المؤشرات المتعلقة بالمشروع الموكل اليهم
   
- We will establish a clear communication plan with clients and set needed objectives to abide with required time scheduling. Our team members are flexible, motivated and well oriented to achieve all milestones within the respective project.
+  ###### التقييم
   
-  ###### EVALUATION
+  ان فريق ليدرلاين هو واحد من ركائزنا في نجاح عملنا وهم يحافظون على سمعتنا في السوق وأمام عملائنا الكرام. تساعدنا عملية التقييم المكثفة في الحفاظ على الأداء العالي وكفاءة الاستشاريين
   
-  Leaderline Experts is one of our great assets for the business. Our team is maintaining LMC reputation in the market and in front of our valued clients... Our intensive evaluation process is helping us in keeping on the high performance and efficiency of consultants.
   "
 
   # funfacts
   funfacts :
     - icon : ti-server # themify icon pack : https://themify.me/themify-icons
-      title : Projects Done
+      title : المشاريع المنجزة
       count : 140
       
     - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
-      title : Satisfied Clients
+      title : عملاء راضون 
       count : 280
       
     - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
-      title : Professional Training
+      title : تدريب احترافي
       count : 395
 
   # progressbar
@@ -169,10 +170,10 @@ testimonial:
 cta:
   enable : true
   bg_image : "images/background/cta.jpg"
-  title : "Leaderline give the smart solution for your business"
+  title : "تقدم ليدرلاين الحل الذكي لعملك"
   button:
     enable : true
-    label : "get a quote"
+    label : "احصل على عرض"
     link : "contact"
       
 ########################################## blog ####################################

@@ -306,7 +306,7 @@ link = "https://twitter.com/Leaderline_lmc/"
   subscribe_content = "Don't missout on latest updates and news, Subscribe to our newslatters."
 
   # copyright
-  copyright = "Copyright &copy; 2022 Leaderline Management Consultancy"
+  copyright = "Copyright &copy; 2023 Leaderline Management Consultancy"
 
 
 
@@ -366,11 +366,11 @@ link = "https://twitter.com/Leaderline_lmc/"
   
   # footer
   [Languages.ar.params.footer]
-  content = ". . . نؤمن بالتميّز"
+  content = "نؤمن بالتميّز . . ."
 
   # subscribe
-  subscribe = "Subscribe Us"
-  subscribe_content = "للإشتراك في نشراتنا "
+  subscribe = "للإشتراك"
+  subscribe_content = "لا تفوت آخر التحديثات والأخبار ، اشترك في نشراتنا الإخبارية."
 
   # copyright
-  copyright = "جميع الحقوق محفوظة &copy; 2022 Leaderline Management Consultancy"
+  copyright = "جميع الحقوق محفوظة &copy; 2023 Leaderline Management Consultancy"
