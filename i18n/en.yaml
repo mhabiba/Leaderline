@@ -52,3 +52,15 @@
   translation: Posted By
 - id: share
   translation: Share
+- id: name
+  translation: Name
+- id: company
+  translation: Company
+- id: mobile
+  translation: Mobile Number
+- id: email
+  translation: Email Address
+- id: subject
+  translation: Subject
+- id: question
+  translation: Your Question Here...

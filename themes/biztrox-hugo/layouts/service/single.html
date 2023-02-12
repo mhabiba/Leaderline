@@ -63,22 +63,22 @@
 							<input type="text" class="form-control" name="service" id="service" placeholder="Service" value="{{ .Title }}" readonly>
 						</div>
 						<div class="col-lg-12">
-							<input type="text" class="form-control" name="name" id="name" placeholder="Name" required>
+							<input type="text" class="form-control" name="name" id="name" placeholder="{{ i18n "name" }}" required>
 						</div>
 						<div class="col-lg-12">
-							<input type="text" name="company" id="company" class="form-control" placeholder="Company" required>
+							<input type="text" name="company" id="company" class="form-control" placeholder="{{ i18n "company" }}" required>
 						</div>						
 						<div class="col-lg-12">
-							<input type="tel" class="form-control" name="phone" id="phone" placeholder="Mobile Number" pattern="05[0-9]{8}" maxlength="10"  title="05########" required>
+							<input type="tel" class="form-control" name="phone" id="phone" placeholder="{{ i18n "mobile" }}" pattern="05[0-9]{8}" maxlength="10"  title="05########" required>
 						</div>
 						<div class="col-lg-12">
-							<input type="email" class="form-control" name="email" id="email" placeholder="Email Address" required>
+							<input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
 						</div>
 						<div class="col-lg-12">
-							<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+							<input type="text" class="form-control" name="subject" id="subject" placeholder="{{ i18n "subject" }}" required>
 						</div>
 						<div class="col-lg-12">
-							<textarea name="question" id="question" class="form-control p-2" placeholder="Your Question Here..."
+							<textarea name="question" id="question" class="form-control p-2" placeholder="{{ i18n "question" }}"
 								style="height: 150px;"></textarea>
 						</div>
 						<div class="col-lg-12">

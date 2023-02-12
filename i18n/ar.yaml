@@ -37,7 +37,7 @@
 - id: cv
   translation: خبراء ليدرلاين
 - id: overview
-  translation: Overview
+  translation: نظرة عامة
 - id: project_name
   translation: اسم المشروع
 - id: live_demo
@@ -45,10 +45,22 @@
 - id: case_study
   translation: Complete Case Study
 - id: free_consultation
-  translation: Request Free Consultation
+  translation: اطلب استشارة مجانية
 - id: all
   translation: All
 - id: posted_by
   translation: بقلم
 - id: share
   translation: مشاركة
+- id: name
+  translation: الاسم
+- id: company
+  translation: الشركة أو الجهة
+- id: mobile
+  translation: رقم الجوال
+- id: email
+  translation: البريد الإلكتروني
+- id: subject
+  translation: الموضوع
+- id: question
+  translation: اكتب استفساراتك هنا...
