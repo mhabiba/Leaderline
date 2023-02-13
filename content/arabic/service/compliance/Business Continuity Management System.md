@@ -10,32 +10,34 @@ type : service
 
 ---
 
-## Business Continuity Management System
+## نظام إدارة استمرارية الاعمال
+
 <pre>
 
 
 </pre>
 
-### Introduction
-It is a holistic management system that identifies potential threats to an organization and the impacts to business operations those threats, if realized, might cause. and which provides a framework for building organizational resilience. with the capability for an effective response that safeguards the interests of its key stakeholders, reputation, brand and value-creating activities
+### مقدمة
+نظام إدارة شامل لتحديد التهديدات المحتملة على المنظمة والتأثيرات على العمليات الداخلية التي قد تسببها تلك التهديدات.
 
+ويوفر إطارًا لبناء المرونة التنظيمية مع القدرة على الاستجابة الفعالة التي تحمي مصالح المنظمة وأصحاب المصلحة الرئيسيين وسمعة المنظمة وأنشطة خلق القيمة
 
-### Benefits
-1. Protects organization assets (people, technology, building, top-line, bottom-line, reputation)
-2. Sustainability
-3. Alignment with other management systems
-4. Improve incident response 
-5. Effective and fast disaster recovery
-6. Ability to demonstrate compliance with BCMS requirements
+### الفوائد
+1. حماية أصول المنظمة (الأشخاص، التكنولوجيا، المنشأة، صافي الايرادات، عائدات المبيعات،  سمعة المنظمة)
+2. الاستدامة
+3. الموائمة مع أنظمة الإدارة الأخرى
+4. تحسين عملية الاستجابة للحوادث 
+5. التعافي من الكوارث بشكل فعال وسريع
+6. القدرة على إثبات الامتثال لمتطلبات ISO 22301
 
-### Business Continuity Management Activities 
-1. Operational planning and control
-2. Business impact analysis
-3. Risk assessment
-4. Business continuity strategy
-5. Business continuity procedures
-6. Incident response structure
-7. Warning and communication
-8. Business continuity plans
-9. Recovery
-10. Exercising and testing
+### أنشطة إدارة إستمرارية الأعمال 
+1. التخطيط والرقابة التشغيلية
+2. تحليل اثر الاعمال
+3. تقييم المخاطر
+4. وضع استراتيجية استمرارية العمل
+5. تطوير إجراءات استمرارية الأعمال
+6. تطوير هيكلية الاستجابة للحوادث
+7. تطوير منهجية التواصل الداخلي
+8. خطط استمرارية العمل
+9. تطوير عملية التعافي من الكوارث
+10. تطوير خطط تدريبات الطوارئ واختبار الأنظمة
