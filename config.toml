@@ -169,28 +169,6 @@ link = "contact"
 enable = true
 preloader = "images/preloader.gif"
 
-############################ Contact information ############################
-[[params.contacts]]
-icon = "ti-mobile"
-
-  [[params.contacts.contact]]
-  contact_item = "+966 11 400 4782"
-  
-  [[params.contacts.contact]]
-  contact_item = "+966 53 620 3055"
-
-[[params.contacts]]
-icon = "ti-email"
-
-  [[params.contacts.contact]]
-  contact_item = "info@lmc.sa"
-  
-[[params.contacts]]
-icon = "ti-map-alt"
-
-  [[params.contacts.contact]]
-  contact_item = "Al Imam Saud Ibn Abdul Aziz Road, Al Masif 3894 - 4004, Riyadh 12466, Saudi Arabia"
-
 ############################ google map #####################################
 [params.gmap]
 enable = false

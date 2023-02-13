@@ -1,3 +1,5 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.homepage.contact_information }}
 {{ "<!-- contact -->" | safeHTML }}
 <section class="section">
 	<div class="container">
@@ -6,12 +8,12 @@
 				<h2 class="section-title">{{ i18n "contact_us" }}</h2>
 				<ul class="pl-0">
 					{{ "<!-- contact items -->" | safeHTML }}
-					{{ range .Site.Params.contacts }}
+					{{ range .contacts }}
 					<li class="d-flex mb-30">
 						<i class="round-icon mr-3 {{ .icon }}"></i>
 						<div class="align-self-center font-primary">
 							{{ range .contact }}
-							<div class="text-dark">{{ .contact_item | safeHTML }}</div>
+							<div class="text-dark" dir="ltr">{{ .contact_item | safeHTML }}</div>
 							{{ end }}
 						</div>
 					</li>
@@ -26,22 +28,22 @@
 							<h3 class="mb-4">{{ i18n "contact_form" }}</h3>
 						</div>
 						<div class="col-lg-6">
-							<input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
+							<input type="text" name="name" id="name" class="form-control" placeholder="{{ i18n "name" }}" required>
 						</div>
 						<div class="col-lg-6">
-							<input type="text" name="company" id="company" class="form-control" placeholder="Company" required>
+							<input type="text" name="company" id="company" class="form-control" placeholder="{{ i18n "company" }}" required>
 						</div>						
 						<div class="col-lg-6">
-							<input type="tel" class="form-control" name="phone" id="phone" placeholder="Mobile Number" pattern="05[0-9]{8}" maxlength="10"  title="05########" required>
+							<input type="tel" class="form-control" name="phone" id="phone" placeholder="{{ i18n "mobile" }}" pattern="05[0-9]{8}" maxlength="10"  title="05########" required>
 						</div>
 						<div class="col-lg-6">
-							<input type="email" class="form-control" name="email" id="email" placeholder="Email Address" required>
+							<input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
 						</div>
 						<div class="col-lg-12">
-							<input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" required>
+							<input type="text" name="subject" id="subject" class="form-control" placeholder="{{ i18n "subject" }}" required>
 						</div>
 						<div class="col-lg-12">
-							<textarea class="form-control p-2" name="message" id="message" placeholder="Your Message Here..." required
+							<textarea class="form-control p-2" name="message" id="message" placeholder="{{ i18n "question" }}" required
 								style="height: 150px;"></textarea>
 						</div>
 						<div class="col-lg-12">
@@ -54,3 +56,4 @@
 	</div>
 </section>
 {{ "<!-- /contact -->" | safeHTML }}
+{{ end }}

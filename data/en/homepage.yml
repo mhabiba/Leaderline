@@ -176,3 +176,19 @@ blog:
 clients_logo_slider:
   enable : true
   # clients logo comes from "config.toml" folder
+
+############################ Contact information ############################
+contact_information:
+  contacts:
+    - icon : "ti-mobile"
+      contact:
+        - contact_item : "+966 11 400 4782"
+        - contact_item : "+966 53 620 3055"
+
+    - icon : "ti-email"
+      contact:
+        - contact_item : "info@lmc.sa"
+
+    - icon : "ti-map-alt"
+      contact:
+        - contact_item : "Al Imam Saud Ibn Abdul Aziz Road, Al Masif 3894 - 4004, Riyadh 12466, Saudi Arabia"

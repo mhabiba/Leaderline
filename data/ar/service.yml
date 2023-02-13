@@ -2,16 +2,16 @@
 satisfied_clients:
   enable : true
   bg_image : images/background/clients-bg.jpg
-  subtitle : Our Some
-  title : Satisfied Clients
-  content : Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis. natus error sit voluptem accusantium doloremqu laudantium totam remaperiam eaque ipsa quae
+  subtitle : سفراء ليدرلاين
+  title : العملاء الراضين
+  content : نحن نتعامل مع رضا العملاء كعامل أساسي للشركة، عملائنا هم سفراء العلامة التجارية لليدرلاين وشركاء قصص نجاحنا.
   logo:
-    - images/client-logo/client-logo-1-white.png
-    - images/client-logo/client-logo-2-white.png
-    - images/client-logo/client-logo-4-white.png
-    - images/client-logo/client-logo-3-white.png
-    - images/client-logo/client-logo-5-white.png
-    - images/client-logo/client-logo-3-white.png
+    - images/client-logo/Takamol- Web- Light.svg
+    - images/client-logo/SAIP- Web- Light.svg
+    - images/client-logo/M.Culture- Web- Light.svg
+    - images/client-logo/GSO- Web- Light.svg
+    - images/client-logo/M.Commerce- Web- Light.svg
+    - images/client-logo/Monshaat- Web- Light.svg   
     
 ##################################### call to action #################################
 testimonial:

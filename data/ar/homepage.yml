@@ -149,22 +149,14 @@ promo_video:
 
 ##################################### call to action #################################
 testimonial:
-  enable : false
-  subtitle : Clients
-  title : What client Say
+  enable : true
+  subtitle : العملاء
+  title : ما يقوله العملاء
   image : images/client.png
   testimonial_item :
-    - name : Julia Robertson
-      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-      designation : Happy Clients
-      
-    - name : Julia Robertson
-      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-      designation : Happy Clients
-      
-    - name : Julia Robertson
-      content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-      designation : Happy Clients
+    - name : الاستاذ/ زياد الصائغ
+      content : نحن سعداء جدًا بالتقدم المحرز، ونحن ممتنون جدًا لتقديم دعمكم الكامل ونتائج المشروع
+      designation : الرئيس التنفيذي - العمليات، شركة تكامل القابضة
 
 ##################################### call to action #################################
 cta:
@@ -185,3 +177,19 @@ blog:
 clients_logo_slider:
   enable : true
   # clients logo comes from "config.toml" folder
+
+############################ Contact information ############################
+contact_information:
+  contacts:
+    - icon : "ti-mobile"
+      contact:
+        - contact_item : "+966 11 400 4782"
+        - contact_item : "+966 53 620 3055"
+
+    - icon : "ti-email"
+      contact:
+        - contact_item : "info@lmc.sa"
+
+    - icon : "ti-map-alt"
+      contact:
+        - contact_item : "طريق الإمام سعود بن عبد العزيز، المصيف 3894-4004، الرياض 12466- المملكة العربية السعودية"
