@@ -64,3 +64,5 @@
   translation: الموضوع
 - id: question
   translation: اكتب استفساراتك هنا...
+- id: read_button
+  translation: قراءة المزيد

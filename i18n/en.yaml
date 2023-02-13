@@ -64,3 +64,5 @@
   translation: Subject
 - id: question
   translation: Your Question Here...
+- id: read_button
+  translation: Read More
