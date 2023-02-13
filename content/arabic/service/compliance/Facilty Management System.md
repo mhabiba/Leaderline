@@ -10,28 +10,26 @@ type : service
 
 ---
 
-## Facility Management System
+## نظام إدارة المرافق
 <pre>
 
 
 </pre>
 
-### Introduction
-Organizational function which integrates people, place and process within the Built Environment (buildings, infrastructure, construction work area) with the purpose of the continuous improvement to fulfill better Health and Safety requirements. of people working & living in that Built Environment and ensure productivity of the Core Business.
+### مقدمة
+هي الوظيفة التنظيمية التي تدمج الأشخاص والمكان والعملية داخل البيئة المبنية (المباني والبنية التحتية ومنطقة عمل البناء) بغرض التحسين المستمر لتلبية متطلبات الصحة والسلامة الأفضل. للأشخاص الذين يعملون ويعيشون في تلك البيئة المبنية.
 
+### الفوائد
+1. الحماية المباشرة للمرافق المادية من خلال الصيانة الوقائية
+2. ضمان صيانة المرافق/ الممتلكات بطريقة وظيفية جيدة لخدمة العملاء
+3. تجنب تعطل المرافق الذي يمكن أن يتسبب في فقدان الأرواح وإلحاق الضرر بالممتلكات
+4. تقليل وقت تعطل المرافق وإطالة العمر الإنتاجي للمرافق المادية
 
-### Benefits
-1. Direct Protection of Physical Facilities by Quality Maintenance Services
-2. Ensure Facilities/Property in Good Functional Manner to Serve Clients/Customers
-3. Avoid Facility Failure that can cause Loss of Lives and Damage to property
-4. Reduce Downtime of Facility Function and Extend useful Life of Physical Facilities
-
-### Facility Management Activities 
-1. Setting FM Strategy & Plan
-2. Establish & Implement FM with Strategic Direction of Business
-3. Establish & Implement FM Policy & Objectives
-4. Establish & Implement FM Procedures
-5. Ensure the Delivery of FM Services according to Legal/ Contract Requirements (SLA, KPIs, Risk management)
-6. Ensure Quality of FM Services and Reduce Failure Rate.
-7. Support Service Delivery Staff & Service Providers.
-8. Ensure Conformity & Continual Improvement
+### مهام العمل
+1. وضع استراتيجية وخطة إدارة المرافق
+2. إنشاء وتنفيذ نظام إدارة المرافق بحسب التوجه الاستراتيجي
+3. وضع وتنفيذ سياسة وأهداف إدارة المرافق
+4. إنشاء وتنفيذ إجراءات إدارة المرافق
+5. ضمان تقديم خدمات إدارة المرافق وفقًا للمتطلبات القانونية/ العقود (اتفاقية مستوى الخدمة، مؤشرات الأداء الرئيسية، إدارة المخاطر)
+6. ضمان جودة خدمات إدارة المرافق وتقليل معدل الفشل
+7. ضمان المطابقة والتحسين المستمر

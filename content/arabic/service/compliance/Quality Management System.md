@@ -11,29 +11,28 @@ type : service
 
 ---
 
-## Quality Management System
+## نظام إدارة الجودة
 <pre>
 
 
 </pre>
 
-### Introduction
-QMS is a management system that helps organizations in establishing a solid management as well as structure that should be accurate in carrying out required roles and responsibilities with great confidence. to its customers service providers and all other interested parties and stakeholders.
+### مقدمة
+هو نظام اداري يساعد المنظمة في انشاء بنية تنظيمية متينة وادارة قوية تتمتع بالدقة في تنفيذ المهام وتعطي الادارة ثقة بالغة للمتعاملين معها، سوآءا كانوا مزودي خدمات، عملاء او غير ذلك، وذلك فيما يتعلق بالخدمات التي تقدمها او تدعمها على حد سواء. وكل ذلك يتم من خلال مطابقة المعايير العالمية مع النظام القائم في المنظمة.
 
-The aim of applying such system is to help the organization in developing and improving its performance to the fullest extent and in all directions, as well as linking all its administrative and operational processes successfully and efficiently.
+كما ويهدف وضع هكذا نظام الى مساعدة المنظمة على التطوير والتحسين في ادائها الى ابعد حدود وفي كافة المجالات وربط كافة عملياتها الادارية والتشغيلية بشكل ناجح وفعال، وبمختلف المجالات والاقسام.
 
+### الفوائد
+1. قدرة المنظمة على الوفاء باستمرار بمتطلبات العملاء والمتطلبات القانونية والتنظيمية التي تنطبق على المنتجات والخدمات التي تقدمها
+2. تيسير الفرص لتعزيز رضا العملاء
+3. التعامل مع المخاطر والفرص ذات العلاقة بسياق المنظمة وأهدافها
+4. القدرة على إظهار التوافق مع متطلبات نظام إدارة الجودة
 
-### Benefits
-1. The organization's ability to consistently meet customer, legal and regulatory requirements that apply to its products and services
-2. Facilitate opportunities to enhance customer satisfaction
-3. Dealing with risks and opportunities related to the context and objectives of the organization
-4. Ability to demonstrate compliance with QMS requirements
-
-### Quality Principles
-1. Customer Focus
-2. Leadership
-3. Engagement of People
-4. Process Approach
-5. Improvement
-6. Evidence-based Decision Making
-7. Relationship Management
+### مبادئ الجودة
+1. التركيز على العميل
+2. القيادة
+3. مشاركة العاملين
+4. منهجية العمليات
+5. التحسين المستمر
+6. بناء القرار المبني على الأدلة
+7. إدارة العلاقات

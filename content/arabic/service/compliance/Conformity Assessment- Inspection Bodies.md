@@ -10,33 +10,33 @@ type : service
 
 ---
 
-## Conformity Assessment- Inspection Bodies
+## تقييم المطابقة - الجهات التي تقدم خدمات التفتيش
+
 <pre>
 
 
 </pre>
 
-### Introduction
-Requirements for the operation of various types of bodies performing inspection
-This International Standard specifies general criteria for the competence of impartial bodies performing inspection irrespective of the sector involved. It also specifies independence criteria. This standard is intended for the use of inspection bodies and their accreditation bodies as well as other bodies concerned with recognizing the competence of inspection bodies
+### مقدمة
+تحدد المواصفة الدولية المعايير العامة لكفاءة الجهات المحايدة التي تقوم بالتفتيش بغض النظر عن القطاع المعني، كما تحدد معايير الاستقلالية.
+هذه المواصفة مخصصة لاستخدام جهات التفتيش وجهات الاعتماد التابعة لها وكذلك الجهات الأخرى المعنية بالاعتراف بكفاءة جهات التفتيش.
 
+### الفوائد
+1. قدرة المنظمة على تلبية متطلبات العملاء والمتطلبات القانونية والتنظيمية باستمرار
+2. تسهيل الفرص لتعزيز رضا العملاء
+3. تقييس التشغيل ورفع التقارير للأشخاص الذين يقومون بتنفيذ أنشطة التفتيش
+4. القدرة على إثبات الامتثال لمتطلبات المواصفة
 
-### Benefits
-1. The organization's ability to consistently meet customer, legal and regulatory requirements
-2. Facilitate opportunities to enhance customer satisfaction
-3. Uniformity in execution and reporting method for the people carrying out the activity
-4. Ability to demonstrate compliance with standard requirements
-
-### Main requirements 
-1. Requirements for impartiality and independence
-2. Confidentiality
-3. Administrative requirements
-4. Organization and management
-5. Personnel
-6. Facilities and equipment maintenance
-7. Calibration
-8. Subcontracting
-9. Inspection methods and procedures
-10. Handling of inspection items and samples
-11. Inspection reports and inspection certificates
-12. Complaints and appeals
+### المتطلبات الأساسية 
+1. الحيادية والاستقلالية
+2. السرية وعدم الإفصاح
+3. المتطلبات الإدارية
+4. المتطلبات التنظيمية والإدارية
+5. متطلبات الموظفين
+6. متطلبات صيانة المرافق والمعدات
+7. متطلبات المعايرة
+8. متطلبات التعاقد مع الموردين
+9. إجراء التفتيش
+10. منهجيات التعامل مع عناصر الفحص والعينات
+11. تقارير التفتيش وشهادات التفتيش
+12. عملية الشكاوى وطلبات الاستئناف

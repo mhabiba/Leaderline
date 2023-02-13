@@ -10,29 +10,30 @@ type : service
 
 ---
 
-## Enterprise Risk Management
+## إرشادات إدارة المخاطر
 <pre>
 
 
 </pre>
 
-### Introduction
-Risk management is an iterative process that assists organizations in setting strategy, achieving goals and making informed decisions.
-Risk management is part of governance and leadership. and it is the basis of how an organization is managed at all levels.
-Risk management is a part of all activities associated with the organization and includes interaction with stakeholders.
-Risk management considers the external and internal context of the organization, including human behavior and cultural factors.
+### مقدمة
+إدارة المخاطر هي عملية مستمرة وتساعد المنظمات في وضع الاستراتيجيات وتحقيق الأهداف واتخاذ قرارات مدروسة.
 
+تعد إدارة المخاطر جزءًا من الحوكمة والقيادة، وهي أساس لإدارة المنظمة على جميع المستويات. 
 
-### Benefits
-1. Improving management systems
-2. Business continuity
-3. Asset protection
-4. Adherence to regulations and legislation
-5. Decision-making process based on facts
+تأخذ إدارة المخاطر في عين الاعتبار السياق الخارجي والداخلي للمنظمة، بما في ذلك السلوك البشري والعوامل الثقافية.
 
-### Main Requirements 
-1. Use processes of communication and consultation with employees to identify risks
-2. Use monitoring, control and review processes to identify risks
-3. Use reports and records to identify risks
-4. Develop a risk assessment methodology (risk identification, risk analysis, risk assessment)
-5. Establish a methodology for determining the controls for treating risks
+### الفوائد
+1. تحسين نظام الإدارة الداخلي
+2. استمرارية الأعمال
+3. حماية الأصول
+4. الالتزام بالأنظمة والتشريعات
+5. دعم عملية اتخاذ القرار بناء على الحقائق
+
+### مهام العمل 
+1. وضع اطار عمل موحد لعمليات وممارسات إدارة المخاطر بحسب افضل الممارسات
+2. تطوير عمليات التواصل والتشاور مع الموظفين لتشمل تحديد المخاطر
+3. تطوير عمليات المراقبة والضبط والمراجعة لتشمل تحديد المخاطر
+4. تطوير عملية رفع التقارير والتسجيلات لتشمل تحديد المخاطر
+5. وضع منهجية تقييم المخاطر (تحديد، تحليل، تقييم)
+6. وضع منهجية لتحديد ضوابط معالجة المخاطر ووضع خطط عمل لتطبيق الضوابط

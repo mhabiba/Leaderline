@@ -10,30 +10,33 @@ type : service
 
 ---
 
-## Innovation Management System
+## نظام إدارة الابتكار
+
 <pre>
 
 
 </pre>
 
-### Introduction
-An organization’s ability to innovate is recognized as a key factor for sustained growth, economic viability, increased well-being, and the development of society.
-An organization can innovate more effectively and efficiently if all necessary activities and other interrelated or interacting elements are managed as a system.
-An innovation management system guides the organization to determine its innovation vision, strategy, policy, and objectives, and to establish the support and processes needed to achieve the intended outcomes.
+### مقدمة
+تعتبر قدرة المنظمة على الابتكار عامل رئيسي للنمو المستدام، والجدوى الاقتصادية، وزيادة الرفاهية، وتنمية المجتمع.
+
+تستطيع المنظمة أن تبتكر بشكل أكثر فعالية وكفاءة إذا تمت إدارة جميع الأنشطة الضرورية والعناصر الأخرى المترابطة أو المتفاعلة كنظام.
+
+يوجه نظام إدارة الابتكار المنظمة لتحديد رؤيتها واستراتيجيتها وسياستها وأهدافها للابتكار، وإنشاء الدعم والعمليات اللازمة لتحقيق النتائج المرجوة.
 
 
-### Benefits
-1. improved sustainability and resilience.
-2. increased satisfaction of users, customers, citizens, and other interested parties.
-3. engaged and empowered people in the organization.
-4. enhanced reputation and valuation of the organization.
-5. facilitated compliance with regulations and other relevant requirements.
+### فوائد
+1. تحسين الاستدامة والمرونة
+2. زيادة رضا العملاء والمواطنين والأطراف المعنية الأخرى
+3. مشاركة وتمكين الأشخاص في المنظمة
+4. تعزيز سمعة وقيمة المنظمة
+5. تسهيل الامتثال للمتطلبات التنظيمية والمتطلبات الأخرى ذات العلاقة.
 
-### IMS Specialized Activities 
-1. Develop organizational context including defining internal and external issues, culture and collaboration.
-2. Develop the innovation Policy to set innovation vision and strategy.
-3. Develop the Innovation processes that aims to convert opportunities intent into innovation value.
-4. Establish the objectives and determine the actions needed to address opportunities and risks.
-5. Implement what is planned in terms of support and operations.
-6. Monitor and (where applicable) measure results against objectives.
-7. Take actions to continually improve the performance of the innovation management system.
+### مهام العمل
+1. تطوير السياق التنظيمي بما في ذلك تحديد القضايا الداخلية والخارجية وثقافة الابتكار والجهات المشاركة
+2. تطوير سياسة الابتكار لوضع رؤية واستراتيجية الابتكار
+3. تطوير عمليات الابتكار التي تهدف إلى تحويل الفرص إلى قيمة ابتكارية
+4. وضع الأهداف وتحديد الإجراءات اللازمة لمعالجة الفرص والمخاطر
+5. تنفيذ ما هو مخطط له من حيث الدعم والعمليات
+6. رصد و(بحسب الامكان) قياس النتائج مقابل الأهداف
+7. اتخاذ إجراءات للتحسين المستمر لأداء نظام إدارة الابتكار

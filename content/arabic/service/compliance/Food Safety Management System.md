@@ -11,36 +11,36 @@ type : service
 
 ---
 
-## Food Safety Management System
+## نظام إدارة سلامة الغذاء
 <pre>
 
 
 </pre>
 
-### Introduction
-The most effective food safety systems are established, operated and updated within the framework of a structured management system and incorporated into the overall management activities of the organization. This provides maximum benefit for the organization and interested parties. ISO 22000 integrates the principles of the Hazard Analysis and Critical Control Point (HACCP) system and application steps.
+### مقدمة
+تستخدم أنظمة سلامة الغذاء الأكثر فاعلية إطار نظام داخلي إداري مدمج في أنشطة الإدارة العامة للمنظمة. يوفر ذلك أقصى فائدة للمنظمة وللأطراف المعنية، يدمج ISO 22000  مبادئ تحليل المخاطر ونقاط الضبط الحرجة HACCP  والعمليات التشغيلية.
 
-### Benefits
-1. Reduction in food safety incidents and cost.
-2. Compliance with legal and Codex HACCP principle.
-3. Lower risk of liability.
-4. Fewer errors and customer complaints.
-5. Continual improvement in products & processes.
-6. Resource optimization – internally and along the food chain.
-7. Sustainable food safety performance.
-8. Improves consumer/ supplier/ regulator confidence and relationships.
-9. Platform for process and management control and improvement.
-10. Competitive advantage in the marketplace.
-11. Promotes international trade.
-12. Improved overall performance.
+### الفوائد
+1. الحد من حوادث سلامة الغذاء وتكاليفها
+2. الامتثال لمبادئ HACCP 
+3. انخفاض المخاطر والمسؤوليات القانونية
+4. تقليل الأخطاء وشكاوى العملاء
+5. التحسين المستمر في المنتجات والعمليات
+6. تحسين الموارد داخليًا وعلى طول السلسلة الغذائية
+7. استدامة أداء سلامة الغذاء
+8. تحسين ثقة المستهلكين والجهات المنظمة والعلاقات
+9. اداة لضبط وتحسين العمليات والإدارة
+10. ميزة تنافسية في السوق
+11. تعزيز فرص التجارة الدولية
+12. تحسين الأداء العام
 
-### Main Requirements
-1. Interactive Communication
-2. System Management
-3. Pre- Requisite Programs
-4. HACCP Principles
-5. Planning and implementation of safe products
-6. Recognition, verification and optimization of the Food Safety Management System
-7. Develop the basic general requirements Prerequisite Program PRP
-8. undertake a risk analysis and identification of critical points
-9. adopt and implement an awareness training program
+### المتطلبات الأساسية
+1. تطوير عملية التواصل
+2. تطوير النظام الاداري الداخلي
+3. مراجعة برامج المتطلبات المسبقة لسلامة الغذاء PRP
+4. مراجعة تطبيق مبادئ HACCP
+5. وضع خطط سلامة الانتاج
+6. مراجعة وتحسين نظام إدارة سلامة الأغذية
+7. تطوير المتطلبات العامة الأساسية لبرنامج المتطلبات المسبقة PRP
+8. إجراء تحليل للمخاطر وتحديد النقاط الحرجة
+9. تنفيذ برنامج تدريبي توعوي

@@ -11,44 +11,43 @@ type : service
 
 ---
 
-## Information Security Management System
+## نظام إدارة امن المعلومات
 <pre>
 
 
 </pre>
 
-### Introduction
-Systematically examine the organization's information security risks, taking account of the threats, vulnerabilities, and impacts, that effecting organization informational and IT assets.
+### مقدمة
+فحص منهجي لمخاطر أمن معلومات المنظمة، مع الأخذ في الاعتبار التهديدات ونقاط الضعف والتأثيرات
 
-Design and implement a coherent and comprehensive suite of information security controls and/or other forms of risk treatment (such as risk avoidance or risk transfer) to address those risks that are deemed unacceptable.
+تصميم وتنفيذ مجموعة متماسكة وشاملة من ضوابط أمن المعلومات و/ أو أشكال أخرى من معالجة المخاطر (مثل تجنب المخاطر أو نقل المخاطر) لمعالجة المخاطر التي تعتبر غير مقبولة
 
-Adopt an overarching management process to ensure that the information security controls continue to meet the organization's information security needs on an ongoing basis.
-
-### Benefits
-1. Keeps confidential information secure
-2. Provides customers and stakeholders with confidence in how you manage risk
-3. Allows for secure exchange of information
-4. Helps you to comply with other regulations
-5. Consistency in the delivery of your service or product
-6. Manages and minimizes risk exposure
-7. Builds a culture of security
-8. Protects the Organization, assets, shareholders and directors
-
-### ISMS Activates
-1. Developing Information Security Policies
-2. Ensure Information Security Roles & Responsibilities Are Included
-3. HR Security Policy To Cover Before, During & After Employment
-4. Identify Assets And Define Protection Responsibilities
-5. Classification Of Information
-6. Access Control (Privileged Access, Password Management, User Requirements, Etc.)
-7. Cryptographic Control & Key Management
-8. Physical & Environmental Security
-9. Operational Procedures & Responsibility
-10. Network Security & Information Transfer
-11. System Acquisition Development & Maintenance
-12. Supplier Relationships
-13. Information Security Incident Management
-14. Business Continuity Management
-15. Legal Compliance & Information Security Review 
+تبني عملية إدارة شاملة لضمان استمرار ضوابط أمن المعلومات في تلبية احتياجات أمن معلومات للمنظمة بشكل مستمر
 
 
+### الفوائد
+1. الحفاظ على أمن سرية المعلومات
+2. توفير للعملاء وأصحاب المصالح الثقة في كيفية إدارة المخاطر
+3. تبادل آمن للمعلومات
+4. الامتثال للوائح والأنظمة ذات العلاقة بأمن المعلومات
+5. الاستمرارية  في مستوى تقديم الخدمة
+6. إدارة وتقليل التعرض للمخاطر
+7. بناء ثقافة أمن المعلومات
+8. حماية المنظمة والأصول وأصحاب المصالح
+
+### مهام العمل
+1. تطوير سياسات أمن المعلومات
+2. تعريف أدوار أمن المعلومات والمسؤوليات
+3. سياسة أمن الموارد البشرية لتغطية متطلبات ما قبل وأثناء ومباعد التوظيف
+4. تحديد الأصول وتحديد مسؤوليات حماية الأصول
+5. تصنيف المعلومات
+6. ضبط الوصول (حقوق الوصول، إدارة كلمات المرور ، متطلبات المستخدم، إلخ)
+7. ضبط التشفير وإدارة مفاتيح التشفير
+8. الأمن المادي والبيئي
+9. الإجراءات التشغيلية والمسؤوليات
+10. أمن الشبكات ونقل المعلومات
+11. اقتناء وتطوير وصيانة الأنظمة
+12. علاقات الموردين
+13. إدارة حوادث أمن المعلومات
+14. إدارة استمرارية العمل
+15. الالتزام القانوني ومراجعة أمن المعلومات

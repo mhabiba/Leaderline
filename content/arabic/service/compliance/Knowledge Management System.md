@@ -10,26 +10,25 @@ type : service
 
 ---
 
-## Knowledge Management System
+## نظام إدارة المعرفة
 <pre>
 
 
 </pre>
 
-### Introduction
-The processes that help the organization to generate knowledge, restructure and characterize current and future knowledge, select and organize, use, publish and store internally or externally to create an actual value of the organization's knowledge. in order to help in turning into an educated organization.
+### مقدمة
+العمليـــات التـــي تساعــد المنظمة علــى توليد المـعرفة واعادة هيكلة وتوصيف المعارف الحالية والمستقبلية واختيارها وتنظيمــها، واستخدامــها ونشــــرها وتخزينها داخلياً أو خارجياً لإنشاء قيمة تنظيمية للمعارف الخاصة بالمنظمة لكي تساعده على أن يصبح منظمة متعلمة.
 
+### الفوائد
+1. نشر الوعي بأهمية إدارة المعرفة وجعلها ضمن الثقافة المؤسسية بالمنظمة
+2. نشر وتبادل التجارب والخبرات وأفضل الممارسات الداخلية والخارجية
+3. تحسين وتسريع عملية اتخاذ القرار بسبب توفر المعرفة و الممارسات الجيدة والأنسب وتنفيذها بطريقة أفضل
 
-### Benefits
-1. Spreading awareness of the importance of knowledge management and making it as part of the organizational culture
-2. Publishing and exchanging experiences, in addition to best internal and external practices
-3. Improving and speeding up the decision-making process due to the availability of knowledge, good and appropriate practices with better system implementation
-
-### Knowledge Management Activities 
-1. Building a knowledge management structure with defining roles and responsibilities
-2. Identify and organize existing knowledge and analyze knowledge gaps
-3. Define knowledge management strategy, goals and performance indicators
-4. Acquire, generate and develop knowledge
-5. Knowledge storage and protection
-6. Knowledge transfer and use
-7. Review and sustain the vitality of knowledge
+### مهام العمل
+1. بناء منهجية إدارة المعرفة مع تحديد الأدوار والمسؤوليات
+2. تحديد المعرفة الحالية وتنظيمها وتحليل الفجوات المعرفية
+3. تحديد استراتيجية وأهداف إدارة المعرفة ومؤشرات الأداء
+4. اكتساب وتوليد المعرفة وتطويرها (المعارف الصريحة والمعارف الضمنية)
+5. تخزين المعرفة وحمايتها
+6. نقل المعرفة واستخدامها
+7. مراجعة واستدامة حيوية المعارف
