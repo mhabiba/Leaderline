@@ -1,6 +1,7 @@
 ######################### default configuration ###############################
 baseURL = "/"
-languageCode = "en"
+languageCode = "ar"
+defaultContentLanguage = "ar"
 title = "Leaderline"
 theme = "biztrox-hugo"
 # post pagination
