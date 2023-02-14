@@ -9,7 +9,7 @@
 			{{ "<!-- sidebar -->" | safeHTML }}
 			<aside class="col-lg-4 order-lg-1 order-2">
 				<ul class="service-menu pl-0 border rounded mb-50 overflow-hidden">
-					{{ range (where .Site.RegularPages "Type" "service")}}
+					{{ range  .CurrentSection.RegularPages }}
 					<li class="border-bottom-not-last">
 						<a class="d-block font-primary text-dark p-4" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
 					</li>

@@ -7,7 +7,6 @@ bg_image: images/background/COMP.jpg
 icon: ti-control-forward
 weight: 7
 type : service
-
 ---
 
 ## Business Continuity Management System
