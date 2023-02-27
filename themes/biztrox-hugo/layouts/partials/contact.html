@@ -1,5 +1,4 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
-{{ with $data.homepage.contact_information }}
 {{ "<!-- contact -->" | safeHTML }}
 <section class="section">
 	<div class="container">
@@ -8,6 +7,7 @@
 				<h2 class="section-title">{{ i18n "contact_us" }}</h2>
 				<ul class="pl-0">
 					{{ "<!-- contact items -->" | safeHTML }}
+					{{ with $data.homepage.contact_information }}
 					{{ range .contacts }}
 					<li class="d-flex mb-30">
 						<i class="round-icon mr-3 {{ .icon }}"></i>
@@ -17,6 +17,7 @@
 							{{ end }}
 						</div>
 					</li>
+					{{ end }}
 					{{ end }}
 				</ul>
 			</div>
@@ -56,4 +57,3 @@
 	</div>
 </section>
 {{ "<!-- /contact -->" | safeHTML }}
-{{ end }}
