@@ -1,7 +1,8 @@
 ---
 title: "KMS ISO 30401:2018"
 date: 2022-08-30
-description : "This is meta description"
+description : The processes that help the organization to generate knowledge, restructure and characterize current and future knowledge, select and organize, use, publish and store internally or externally to create an actual value of the organization's knowledge. in order to help in turning into an educated organization.
+
 image: images/service/COMP-125.png
 bg_image: images/background/COMP.jpg
 icon: ti-light-bulb

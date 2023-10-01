@@ -1,7 +1,7 @@
 ---
 title: "ISMS ISO 27001:2013"
 date: 2022-08-23
-description : "This is meta description"
+description : Systematically examine the organization's information security risks, taking account of the threats, vulnerabilities, and impacts, that effecting organization informational and IT assets. Design and implement a coherent and comprehensive suite of information security controls and/or other forms of risk treatment (such as risk avoidance or risk transfer) to address those risks that are deemed unacceptable. Adopt an overarching management process to ensure that the information security controls continue to meet the organization's information security needs on an ongoing basis.
 image: images/service/COMP-122.png
 bg_image: images/background/COMP.jpg
 icon: ti-lock

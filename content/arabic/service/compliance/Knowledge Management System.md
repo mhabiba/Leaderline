@@ -1,7 +1,7 @@
 ---
 title: "KMS ISO 30401:2018"
 date: 2022-08-30
-description : "This is meta description"
+description : العمليـــات التـــي تساعــد المنظمة علــى توليد المـعرفة واعادة هيكلة وتوصيف المعارف الحالية والمستقبلية واختيارها وتنظيمــها، واستخدامــها ونشــــرها وتخزينها داخلياً أو خارجياً لإنشاء قيمة تنظيمية للمعارف الخاصة بالمنظمة لكي تساعده على أن يصبح منظمة متعلمة.
 image: images/service/COMP-125.png
 bg_image: images/background/COMP.jpg
 icon: ti-light-bulb

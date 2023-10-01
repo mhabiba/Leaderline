@@ -1,7 +1,7 @@
 ---
 title: "FMS ISO 41001:2018"
 date: 2022-08-30
-description : "This is meta description"
+description : هي الوظيفة التنظيمية التي تدمج الأشخاص والمكان والعملية داخل البيئة المبنية (المباني والبنية التحتية ومنطقة عمل البناء) بغرض التحسين المستمر لتلبية متطلبات الصحة والسلامة الأفضل. للأشخاص الذين يعملون ويعيشون في تلك البيئة المبنية.
 image: images/service/COMP-128.png
 bg_image: images/background/COMP.jpg
 icon: ti-paint-roller

@@ -1,7 +1,7 @@
 ---
 title: "ERM ISO 31000:2018"
 date: 2022-08-30
-description : "This is meta description"
+description : Risk management is an iterative process that assists organizations in setting strategy, achieving goals and making informed decisions. Risk management is part of governance and leadership. and it is the basis of how an organization is managed at all levels. Risk management is a part of all activities associated with the organization and includes interaction with stakeholders. Risk management considers the external and internal context of the organization, including human behavior and cultural factors.
 image: images/service/COMP-127.png
 bg_image: images/background/COMP.jpg
 icon: ti-target

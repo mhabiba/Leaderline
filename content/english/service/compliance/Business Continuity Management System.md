@@ -1,7 +1,7 @@
 ---
 title: "BCMS ISO 22301:2012"
 date: 2022-08-30
-description : "This is meta description"
+description : It is a holistic management system that identifies potential threats to an organization and the impacts to business operations those threats, if realized, might cause. and which provides a framework for building organizational resilience. with the capability for an effective response that safeguards the interests of its key stakeholders, reputation, brand and value-creating activities
 image: images/service/COMP-126.png
 bg_image: images/background/COMP.jpg
 icon: ti-control-forward

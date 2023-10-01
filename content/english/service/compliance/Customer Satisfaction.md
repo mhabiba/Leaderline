@@ -1,7 +1,7 @@
 ---
 title: "ISO 10002:2018"
 date: 2022-08-30
-description : "This is meta description"
+description : Guidelines for complaints handling in organizations ISO 10002, the international standard for customer satisfaction. It provides you with guidelines for putting in place your own complaints management system. Helping you to identify complaints, their cause and how to eliminate them. ISO 10002 will also allow you to identify areas in your business where you can improve and eventually remove the cause of complaints. The standard outlines management controls and processes that help you to handle customer complaints more effectively and efficiently, making sure that more customers are satisfied with the service you provide.
 image: images/service/COMP-258.png
 bg_image: images/background/COMP.jpg
 icon: ti-face-smile

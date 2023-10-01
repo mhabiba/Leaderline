@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Transfer"
 date: 2021-01-01T11:51:17+06:00
-description : "This is meta description"
+description : Providing intensive in-house training courses related to management system with exhaustive practical sessions to improve skills and enable the trainee practicing learned techniques in order to get the ultimate benefit to the respective organization.
 bg_image: images/service/service-4.jpg
 icon: ti-light-bulb
 type : service

@@ -1,7 +1,7 @@
 ---
 title: "FSMS ISO 22000:2018"
 date: 2022-08-23
-description : "This is meta description"
+description : تستخدم أنظمة سلامة الغذاء الأكثر فاعلية إطار نظام داخلي إداري مدمج في أنشطة الإدارة العامة للمنظمة. يوفر ذلك أقصى فائدة للمنظمة وللأطراف المعنية، يدمج ISO 22000  مبادئ تحليل المخاطر ونقاط الضبط الحرجة HACCP  والعمليات التشغيلية.
 image: images/service/COMP-123.png
 bg_image: images/background/COMP.jpg
 icon: ti-paint-bucket

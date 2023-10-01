@@ -1,7 +1,7 @@
 ---
 title: "BCMS ISO 22301:2012"
 date: 2022-08-30
-description : "This is meta description"
+description : نظام إدارة شامل لتحديد التهديدات المحتملة على المنظمة والتأثيرات على العمليات الداخلية التي قد تسببها تلك التهديدات.ويوفر إطارًا لبناء المرونة التنظيمية مع القدرة على الاستجابة الفعالة. التي تحمي مصالح المنظمة وأصحاب المصلحة الرئيسيين وسمعة المنظمة وأنشطة خلق القيمة
 image: images/service/COMP-126.png
 bg_image: images/background/COMP.jpg
 icon: ti-control-forward

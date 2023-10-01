@@ -1,7 +1,7 @@
 ---
 title: "FMS ISO 41001:2018"
 date: 2022-08-30
-description : "This is meta description"
+description : Organizational function which integrates people, place and process within the Built Environment (buildings, infrastructure, construction work area) with the purpose of the continuous improvement to fulfill better Health and Safety requirements. of people working & living in that Built Environment and ensure productivity of the Core Business.
 image: images/service/COMP-128.png
 bg_image: images/background/COMP.jpg
 icon: ti-paint-roller

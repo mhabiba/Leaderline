@@ -2,7 +2,8 @@
 title: "compliance"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/page-title.jpg
-description : "This is meta description"
+description : تتركز خدماتنا على العديد من الاستشارات الإدارية الاستراتيجية والامتثال للمعايير المحلية/ الدولية وحلول الأعمال، وكذلك تقديم البرامج التدريبية الداخلية بشكل احترافي، وذلك لضمان القيمة المضافة لعملائنا وشركائنا.
+
 ---
 
 ## Our Services

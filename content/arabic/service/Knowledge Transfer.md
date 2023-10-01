@@ -1,11 +1,12 @@
 ---
 title: "نقل المعرفة"
 date: 2021-01-01T11:51:17+06:00
-description : "This is meta description"
+description : تقديم برامج تدريبية داخلية مكثفة تتعلق بنظام الإدارة مع دورات عملية شاملة لتحسين المهارات وتمكين المتدرب من ممارسة التقنيات المكتسبة من أجل الحصول على الفائدة القصوى في المنظمة. ترتبط برامجنا التدريبية
 bg_image: images/service/service-4.jpg
 icon: ti-light-bulb
 type : service
 categories: Service
+
 ---
 
 ### نقل المعرفة

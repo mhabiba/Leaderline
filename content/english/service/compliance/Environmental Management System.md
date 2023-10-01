@@ -1,7 +1,7 @@
 ---
 title: "EMS ISO 14001:2015"
 date: 2022-08-24
-description : "This is meta description"
+description : An environmental management system helps organizations identify, manage, monitor and control their environmental issues. ISO 14001 is suitable for organizations of all types and sizes, be they private, not-for-profit or governmental. It requires that an organization considers all environmental issues relevant to its operations, such as air pollution, water and sewage issues, waste management, soil contamination, climate change mitigation and adaptation, and resource use and efficiency.
 image: images/service/COMP-120.png
 bg_image: images/background/COMP.jpg
 icon: ti-reload

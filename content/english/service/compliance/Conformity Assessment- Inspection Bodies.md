@@ -1,7 +1,7 @@
 ---
 title: "ISO/IEC 17020:2012"
 date: 2022-08-30
-description : "This is meta description"
+description : Requirements for the operation of various types of bodies performing inspection This International Standard specifies general criteria for the competence of impartial bodies performing inspection irrespective of the sector involved. It also specifies independence criteria. This standard is intended for the use of inspection bodies and their accreditation bodies as well as other bodies concerned with recognizing the competence of inspection bodies
 image: images/service/COMP-143.png
 bg_image: images/background/COMP.jpg
 icon: ti-files

@@ -1,7 +1,8 @@
 ---
 title: "ISMS ISO 27001:2013"
 date: 2022-08-23
-description : "This is meta description"
+description : تصميم وتنفيذ مجموعة متماسكة وشاملة من ضوابط أمن المعلومات و/ أو أشكال أخرى من معالجة المخاطر (مثل تجنب المخاطر أو نقل المخاطر) لمعالجة المخاطر التي تعتبر غير مقبولة، تبني عملية إدارة شاملة لضمان استمرار ضوابط أمن المعلومات في تلبية احتياجات أمن معلومات للمنظمة بشكل مستمر
+
 image: images/service/COMP-122.png
 bg_image: images/background/COMP.jpg
 icon: ti-lock

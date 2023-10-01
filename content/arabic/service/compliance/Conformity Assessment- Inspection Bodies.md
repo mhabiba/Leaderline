@@ -1,7 +1,7 @@
 ---
 title: "ISO/IEC 17020:2012"
 date: 2022-08-30
-description : "This is meta description"
+description : تحدد المواصفة الدولية المعايير العامة لكفاءة الجهات المحايدة التي تقوم بالتفتيش بغض النظر عن القطاع المعني، كما تحدد معايير الاستقلالية. هذه المواصفة مخصصة لاستخدام جهات التفتيش وجهات الاعتماد التابعة لها وكذلك الجهات الأخرى المعنية بالاعتراف بكفاءة جهات التفتيش.
 image: images/service/COMP-143.png
 bg_image: images/background/COMP.jpg
 icon: ti-files

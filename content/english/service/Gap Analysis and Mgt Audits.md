@@ -1,7 +1,7 @@
 ---
 title: "Gap Analysis & Mgt. Audits"
 date: 2021-01-02T11:51:17+06:00
-description : "This is meta description"
+description : Providing main tools that support the continuous improvement approach and the high level of system compliance to national and/ or international standards and disciplines where systematic and independent assessments as well as auditing projects are taking place on an organization in order to ascertain how far such level of compliance exists…
 bg_image: images/service/service-2.jpg
 icon: ti-thought
 type : service

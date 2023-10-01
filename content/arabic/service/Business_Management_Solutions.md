@@ -1,7 +1,7 @@
 ---
 title: "حلول إدارة الاعمال"
 date: 2021-01-04T15:51:35+06:00
-description : "This is meta description"
+description : الحلول الإدارية تبدأ من خلال النظر في الفجوات وتحديدها داخل المنشأة حيث يتم تطبيق تشخيص شامل من قبل خبرائنا وبالتعاون مع أصحاب العمليات وذلك للوصول إلى أفضل الممارسات والحلول الفعالة...
 bg_image: images/service/service-1.jpg
 icon: ti-bar-chart # themify icon pack : https://themify.me/themify-icons
 type : service

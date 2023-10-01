@@ -1,7 +1,7 @@
 ---
 title: "FSMS ISO 22000:2018"
 date: 2022-08-23
-description : "This is meta description"
+description : The most effective food safety systems are established, operated and updated within the framework of a structured management system and incorporated into the overall management activities of the organization. This provides maximum benefit for the organization and interested parties. ISO 22000 integrates the principles of the Hazard Analysis and Critical Control Point (HACCP) system and application steps.
 image: images/service/COMP-123.png
 bg_image: images/background/COMP.jpg
 icon: ti-paint-bucket

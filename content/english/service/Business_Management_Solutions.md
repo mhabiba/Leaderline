@@ -1,7 +1,7 @@
 ---
 title: "Business Management Solutions"
 date: 2021-01-04T15:51:35+06:00
-description : "This is meta description"
+description : Start by looking openly to specified inadequacy within the organization where thorough diagnosis is applied by our experts in conjunction with process owners so as to reach the best practiced solutions…
 bg_image: images/service/service-1.jpg
 icon: ti-bar-chart # themify icon pack : https://themify.me/themify-icons
 type : service

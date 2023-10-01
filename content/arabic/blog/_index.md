@@ -1,6 +1,7 @@
 ---
-title: "Blog"
-date: 2018-07-12T18:19:33+06:00
+title: "مدونة"
+date: 2023-10-01
 bg_image: images/background/page-title.jpg
-description : "This is meta description"
+description : احصل على رؤى قيمة ومشورة الخبراء حول استراتيجيات الاستشارات الإدارية وأفضل الممارسات واتجاهات الصناعة. ابق على اطلاع وعزز عملك من خلال مدونتنا الشاملة.
+
 ---

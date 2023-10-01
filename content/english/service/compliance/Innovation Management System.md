@@ -1,7 +1,7 @@
 ---
 title: "InMS ISO 56002:2019"
 date: 2022-08-30
-description : "This is meta description"
+description : An organization’s ability to innovate is recognized as a key factor for sustained growth, economic viability, increased well-being, and the development of society. An organization can innovate more effectively and efficiently if all necessary activities and other interrelated or interacting elements are managed as a system. An innovation management system guides the organization to determine its innovation vision, strategy, policy, and objectives, and to establish the support and processes needed to achieve the intended outcomes.
 image: images/service/COMP-262.png
 bg_image: images/background/COMP.jpg
 icon: ti-shine
