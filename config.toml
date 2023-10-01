@@ -73,7 +73,7 @@ disableLanguages = [''] # desable language from here
   
   [[menu.main]]
   name = "Gap Analysis and Management Audits"
-  URL = "service/gap-analysis-and-mgt.-audits/"
+  URL = "service/gap-analysis-and-mgt-audits/"
   parent = "Service"
   weight = 3
   
@@ -333,7 +333,7 @@ link = "https://twitter.com/Leaderline_lmc/"
   
   [[Languages.ar.menu.main]]
   name = "تحليل الفجوة والتدقيق الإداري"
-  URL = "service/gap-analysis-and-mgt.-audits/"
+  URL = "service/gap-analysis-and-mgt-audits/"
   parent = "خدماتنا"
   weight = 3
   
