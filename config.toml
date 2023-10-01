@@ -61,8 +61,8 @@ disableLanguages = [''] # desable language from here
   
   [[menu.main]]
   name = "Business Management Solutions"
-  URL = "service/business_management_solutions"
-  parent = "Service/"
+  URL = "service/business_management_solutions/"
+  parent = "Service"
   weight = 1
   
   [[menu.main]]
