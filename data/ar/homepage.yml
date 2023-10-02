@@ -13,7 +13,7 @@ slider:
       button:
         enable : true
         label: تفاصيل أكثر
-        link : "service/business_management_solutions"
+        link : "service/business_management_solutions/"
         
     # slider item loop
     - bg_image : images/banner/banner-2-RTL.jpg
@@ -40,7 +40,7 @@ slider:
       button:
         enable : true
         label: تفاصيل أكثر
-        link : "service/gap-analysis-and-mgt.-audits/"
+        link : "service/gap-analysis-and-mgt-audits/"
         
     # slider item loop
     - bg_image : images/banner/banner-4-RTL.jpg
@@ -76,7 +76,7 @@ about:
   button:
     enable : true
     label : "اكتشف المزيد"
-    link : "about"
+    link : "about/"
 
 ##################################### Skill ##############################################
 skill:
@@ -166,7 +166,7 @@ cta:
   button:
     enable : true
     label : "احصل على عرض"
-    link : "contact"
+    link : "contact/"
       
 ########################################## blog ####################################
 blog:
