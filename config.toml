@@ -356,7 +356,7 @@ link = "https://twitter.com/Leaderline_lmc/"
   
   [[Languages.ar.menu.footer]]
   name = "Sitemap"
-  URL = "en/sitemap.xml"
+  URL = "ar/sitemap.xml"
   weight = 2
   
   [[Languages.ar.menu.footer]]
