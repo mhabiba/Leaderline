@@ -1,7 +1,8 @@
 ---
 title: "Legal Disclaimer"
 date: 2018-07-12T18:19:33+06:00
-description : "This is meta description"
+description : The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
 ---
 <h1>Disclaimer</h1>
 <p>Last updated: December 29, 2021</p>
@@ -15,12 +16,12 @@ The following definitions shall have the same meaning regardless of whether they
 <li><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Disclaimer) refers to LMC Solutions LLC, Al Imam Saud Ibn Abdul Aziz Road, Al Masif 3894 - 4004.</li>
 <li><strong>Service</strong> refers to the Website.</li>
 <li><strong>You</strong> means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</li>
-<li><strong>Website</strong> refers to Leaderline, accessible from <a href="www.leaderline.com.sa" rel="external nofollow noopener" target="_blank">www.leaderline.com.sa</a></li>
+<li><strong>Website</strong> refers to Leaderline, accessible from <a href="https://www.leaderline.com.sa/" rel="external nofollow noopener" target="_blank">www.leaderline.com.sa</a></li>
 </ul>
 <h2>Disclaimer</h2>
 <p>The information contained on the Service is for general information purposes only.</p>
 <p>The Company assumes no responsibility for errors or omissions in the contents of the Service.</p>
-<p>In no event shall the Company be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the Service or the contents of the Service. The Company reserves the right to make additions, deletions, or modifications to the contents on the Service at any time without prior notice. This Disclaimer has been created with the help of the <a href="https://www.termsfeed.com/blog/sample-disclaimer-template/" target="_blank">Disclaimer Template</a>.</p>
+<p>In no event shall the Company be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the Service or the contents of the Service. The Company reserves the right to make additions, deletions, or modifications to the contents on the Service at any time without prior notice.</p>
 <p>The Company does not warrant that the Service is free of viruses or other harmful components.</p>
 <h2>External Links Disclaimer</h2>
 <p>The Service may contain links to external websites that are not provided or maintained by or in any way affiliated with the Company.</p>
