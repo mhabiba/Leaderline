@@ -3,7 +3,7 @@ title: "Legal Disclaimer"
 date: 2018-07-12T18:19:33+06:00
 description : "This is meta description"
 ---
-<h1>Disclaimer</h1>
+<h1>Disclaimer HI </h1>
 <p>Last updated: December 29, 2021</p>
 <h2>Interpretation and Definitions</h2>
 <h3>Interpretation</h3>
