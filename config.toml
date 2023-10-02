@@ -13,6 +13,11 @@ disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [''] # desable language from here
 
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
+
 ############################# enable raw HTML ##############################
 [markup]
   [markup.goldmark]
@@ -121,7 +126,7 @@ disableLanguages = [''] # desable language from here
   
   [[menu.footer]]
   name = "Sitemap"
-  URL = "#"
+  URL = "sitemap.xml"
   weight = 2
   
   [[menu.footer]]
@@ -342,6 +347,27 @@ link = "https://twitter.com/Leaderline_lmc/"
   URL = "service/knowledge-transfer/"
   parent = "خدماتنا"
   weight = 4
+  
+  # footer menu
+  [[Languages.ar.menu.footer]]
+  name = "Legal"
+  URL = "pages/legal/"
+  weight = 1
+  
+  [[Languages.ar.menu.footer]]
+  name = "Sitemap"
+  URL = "en/sitemap.xml"
+  weight = 2
+  
+  [[Languages.ar.menu.footer]]
+  name = "Privacy Policy"
+  URL = "pages/privacy_policy/"
+  weight = 3
+  
+  [[Languages.ar.menu.footer]]
+  name = "Terms & Conditions"
+  URL = "pages/terms_conditions/"
+  weight = 4  
   
   # footer
   [Languages.ar.params.footer]
