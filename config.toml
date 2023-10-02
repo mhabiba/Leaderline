@@ -168,7 +168,7 @@ mailchimp_form_name = "b_123dc76f8a7d646b42ac7ce4b_98237a24ab"
 # nav Button
 [params.nav_button]
 enable = true
-link = "contact"
+link = "contact/"
 
 # preloader
 [params.preloader]
@@ -244,7 +244,7 @@ link = "https://mc.gov.sa/"
 
 [[params.clients_logo_slider]]
 logo = "images/client-logo/SMEH- Web- Dark.svg"
-link = "https://www.smeh.com.sa"
+link = "https://www.smeh.com.sa/"
 
 
 
@@ -253,7 +253,7 @@ link = "https://www.smeh.com.sa"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "https://sa.linkedin.com/company/leaderline-lmc"
+link = "https://sa.linkedin.com/company/leaderline-lmc/"
 
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
