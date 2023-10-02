@@ -2,7 +2,7 @@
 baseURL = "https://www.leaderline.com.sa/"
 languageCode = "ar"
 defaultContentLanguage = "ar"
-title = "Leaderline"
+title = "Leaderline Management Consultancy"
 theme = "biztrox-hugo"
 # post pagination
 paginate = 6
@@ -299,7 +299,7 @@ link = "https://twitter.com/Leaderline_lmc/"
   languageName = "Ar"
   languageCode = "ar"
   languagedirection = "rtl"
-  title = "ليدرلاين"
+  title = "ليدرلاين للاستشارات الإدارية"
   owner = ""
   keywords = ""
   copyright = ""
