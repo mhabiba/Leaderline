@@ -12,7 +12,7 @@ summaryLength = "25"
 disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [''] # desable language from here
-
+enableRobotsTXT = true
 [sitemap]
   changeFreq = ''
   filename = 'sitemap.xml'
