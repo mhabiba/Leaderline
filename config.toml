@@ -2,7 +2,7 @@
 baseURL = "https://leaderline.com.sa/"
 languageCode = "ar"
 defaultContentLanguage = "ar"
-title = "Leaderline Management Consultancy"
+title = "Leaderline Management Consultancy (LMC)"
 theme = "biztrox-hugo"
 # post pagination
 paginate = 6
@@ -154,7 +154,7 @@ logo_white = "images/logo-footer.png"
 mail = "info@lmc.sa"
 mobile = "966536203055"
 # Meta data
-description = "Leaderline Management Consultancy - LMC offers smart business solutions, including management solutions, compliance consulting, improvement journeys, and knowledge transfer. Our professional team is dedicated to providing excellence, professionalism, and effective communication to exceed client expectations. Contact us for a quote and experience the difference."
+description = "Your partner for innovative management, strategy, and advisory solutions. Expertise in consulting, analysis, and implementation for business excellence."
 author = "Muhannad Habiba"
 # contact form
 contact_form_action = "https://getform.io/f/c57dc65e-7dfc-4563-a3e2-72190a039d27"
